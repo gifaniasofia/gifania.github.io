@@ -1,0 +1,303 @@
+{
+	"hero": {
+		"title": "Grow your <span class='back-underline-purple'>network</span> the <span class='back-underline-orange'>easy</span> way",
+		"desc": "Personal CRM for Event Organizers",
+		"image": {
+			"web": "/images/home/hero/main_web.png",
+			"mobile": "/images/home/hero/main_mobile.png"
+		},
+		"video": {
+			"web": "",
+			"mobile": ""
+		},
+		"features": [
+			"Create simple event pages",
+			"Invite guests in 1-click",
+			"Grow your personal CRM",
+			"Build your community"
+		],
+		"ctaButton": {
+			"text": "Create Your First Event!",
+			"href": "/auth"
+		},
+		"ctaSignIn": {
+			"preText": "Already have an account?",
+			"textAction": "Log in",
+			"href": "/auth"
+		}
+	},
+	"runningKeywords": [
+		{
+			"id": "keyword-1",
+			"icon": "circle",
+			"text": "VC Dinner Party",
+			"color": "#00CB77"
+		},
+		{
+			"id": "keyword-2",
+			"icon": "blink",
+			"text": "Web3",
+			"color": "#FF4600"
+		},
+		{
+			"id": "keyword-3",
+			"icon": "circle",
+			"text": "Launch Event",
+			"color": "#00CB77"
+		},
+		{
+			"id": "keyword-4",
+			"icon": "square",
+			"text": "Blockchain Hackathon",
+			"color": "#FFB300"
+		},
+		{
+			"id": "keyword-5",
+			"icon": "star",
+			"text": "Founder Meetup",
+			"color": "#5218FF"
+		},
+		{
+			"id": "keyword-6",
+			"icon": "diamond",
+			"text": "Happy Hour",
+			"color": "#FF4600"
+		},
+		{
+			"id": "keyword-7",
+			"icon": "square",
+			"text": "Gaming Conference",
+			"color": "#C972FF"
+		},
+		{
+			"id": "keyword-8",
+			"icon": "star",
+			"text": "Web3 Rooftop Party",
+			"color": "#FFB300"
+		}
+	],
+	"event": {
+		"title": "Create event<span class='sm-hidden'>s<br /></span><span class='max-sm-hidden'> pages</span> in minutes",
+		"coverOption": {
+			"list": [
+				{
+					"title": "VC Dinner Party",
+					"image": "/images/home/event/event_1.png"
+				},
+				{
+					"title": "Web3 Club",
+					"image": "/images/home/event/event_2.png"
+				},
+				{
+					"title": "NFT Launch",
+					"image": "/images/home/event/event_5.png"
+				},
+				{ "title": "Hackathon Meetup",
+					"image": "/images/home/event/event_4.png"
+				},
+				{ "title": "Happy Hour",
+					"image": "/images/home/event/event_3.png"
+				},
+				{ "title": "StartUp Club",
+					"image": "/images/home/event/event_6.png"
+				},
+				{ "title": "Business Networking",
+					"image": "/images/home/event/event_7.png"
+				},
+				{ "title": "Investor Meetup",
+					"image": "/images/home/event/event_8.png"
+				}
+			],
+			"ctaMore": {
+				"text": "( See more event cover options )",
+				"href": "/auth"
+			}
+		},
+		"createEvent": {
+			"data": {
+				"title": "Breakfast Meetup",
+				"host": "Jonathan",
+				"cover": "/images/home/event/event_3.png",
+				"date": "Thursday, Aug 15",
+				"time": "6:00 PM - 9:00 PM",
+				"location": "3395 James Martin Circle",
+				"seats": "20 seats"
+			},
+			"steps": [
+				{
+					"title": "Select cover picture or upload your own",
+					"data": []
+				},
+				{
+					"badge": "TRY IT!",
+					"title": "Select background",
+					"data": [
+						"linear-gradient(180deg, #6F6F6F 0%, rgba(255, 70, 0, 0.2) 100%)",
+						"linear-gradient(180deg, #FF0000 0%, rgba(240, 0, 0, 0) 100%)",
+						"conic-gradient(from 180deg at 50% 50%, #2AF262 0deg, rgba(42, 242, 98, 0) 360deg)",
+						"linear-gradient(225deg, #D66CFF 19.14%, #BC62E4 24.11%, #9052B7 33.46%, #69448F 43.45%, #49386D 53.97%, #2E2F52 65.14%, #1A273C 77.2%, #0B222D 90.6%, #031F25 106.37%, #001E22 130.45%)"
+					],
+					"dataType": "background"
+				},
+				{
+					"badge": "TRY IT!",
+					"title": "Select effect",
+					"dataType": "thumbnail",
+					"data": [
+						{
+							"thumbnail": "/images/effects/thumbnail_sparkling.png",
+							"video": "https://assets.getpartiful.com/animations/sparkles/web.mp4"
+						},
+						{
+							"thumbnail": "https://assets.getpartiful.com/animations/fireworks/thumbnail.png",
+							"video": "https://assets.getpartiful.com/animations/fireworks/web.mp4"
+						},
+						{
+							"thumbnail": "https://assets.getpartiful.com/animations/snowflakes/thumbnail.png",
+							"video": "https://assets.getpartiful.com/animations/snowflakes/web.mp4"
+						},
+						{
+							"thumbnail": "https://assets.getpartiful.com/animations/sakura/thumbnail.png",
+							"video": "https://assets.getpartiful.com/animations/sakura/web.mp4"
+						}
+					]
+				}
+			],
+			"ctaMore": {
+				"title": "( Browse more effects )",
+				"href": "/auth"
+			}
+		},
+		"optionalFeatures": {
+			"title": "Add Optional Features",
+			"list": [
+				{
+					"title": "Enable Waitlist",
+					"desc": "Easily set up an event waitlist and pre-vet all attendees.",
+					"image": "/images/home/event/memo.png"
+				},
+				{
+					"title": "Password Protected",
+					"desc": "Only guests with a password can access your event page.",
+					"image": "/images/home/event/key.png"
+				},
+				{
+					"title": "Sell NFT Tickets",
+					"desc": "As an event host, you can sell NFT tickets.",
+					"image": "/images/home/event/money.png"
+				},
+				{
+					"title": "Guest Questionnaire",
+					"desc": "Ask your guests questions as part of an event RSVP process.",
+					"image": "/images/home/event/eyes.png"
+				}
+			],
+			"ctaButton": {
+				"text": "Create Your First Event!",
+				"href": "/auth"
+			}
+		},
+		"manageGuest": {
+			"title": "Manage your guestlist easily",
+			"list": [
+				{
+					"title": "Share invite link",
+					"desc": "Generate and share event link",
+					"image": "/images/home/event/manage_step_1.png",
+					"bulletColor": "#FF4600",
+					"aspectRatio": "8/10"
+				},
+				{
+					"title": "Invite guests from your Contacts",
+					"desc": "Invite guests in 1-click from your Contacts",
+					"image": "/images/home/event/manage_step_2.png",
+					"bulletColor": "#FF4600",
+					"aspectRatio": "7/10"
+				},
+				{
+					"title": "Track RSVPs",
+					"desc": "Get RSVPs and track who is coming",
+					"image": "/images/home/event/manage_step_3.png",
+					"bulletColor": "#FF4600",
+					"aspectRatio": "8/10"
+				},
+				{
+					"title": "Send automatic reminders",
+					"desc": "Add the event to a guest's calendar and send automatic reminders",
+					"image": "/images/home/event/manage_step_4.png",
+					"bulletColor": "#FF4600",
+					"aspectRatio": "7/10"
+				},
+				{
+					"title": "Track who attended",
+					"desc": "Generate a QR code for a guest to scan at the event",
+					"image": "/images/home/event/manage_step_5.png",
+					"bulletColor": "#FF4600",
+					"aspectRatio": "8/10"
+				}
+			],
+			"ctaButton": {
+				"text": "Create Your First Event!",
+				"href": "/auth"
+			}
+		}
+	},
+	"features": {
+		"list": [
+			{
+				"id": "feature-1",
+				"icon": "/images/home/features/emoji_starstruck.png",
+				"title": "Easily create event pages",
+				"desc": "Create event pages in minutes then share with your guests.",
+				"image": "/images/home/features/features_event.png"
+			},
+			{
+				"id": "feature-2",
+				"icon": "/images/home/features/emoji_person.png",
+				"title": "Auto-add to your Contacts",
+				"desc": "New contacts who register on your event page and unregistered guests who you meet at your event are automatically added to your Contacts.",
+				"image": "/images/home/features/features_crm.png"
+			},
+			{
+				"id": "feature-3",
+				"icon": "/images/home/features/emoji_callme.png",
+				"title": "Automated follow-ups",
+				"desc": "Never miss developing a contact into a relationship with automatic follow-ups generated by Artificial Intelligence.",
+				"image": "/images/home/features/features_automation.png"
+			}
+		],
+		"ctaButton": {
+			"text": "Create Your First Event!",
+			"href": "/auth"
+		}
+	},
+	"crm": {
+		"title": "CRM",
+		"subtitle": "Sync all guest info into your CRM",
+		"desc": "<ul style='margin-left:16px;padding-left:20px;padding-right:80px;'><li>Grow your personal contact list</li><li>Collect guest info with guest questionnaires (emails, company, LinkedIn, etc)</li><li>Add categories, tags, filters, notes, etc</li></ul>",
+		"image": {
+			"web": "/images/home/crm/main_web.png",
+			"mobile": "/images/home/crm/main_mobile.png"
+		}
+	},
+	"automation": {
+		"title": "Automation",
+		"subtitle": "Send automatic follow-ups written by AI",
+		"desc": "Never miss developing a contact into a relationship with automatic follow-ups generated by Artificial Intelligence.",
+		"image": "/images/home/automation/main.png"
+	},
+	"social": {
+		"title": "All your contacts in one place",
+		"desc": "Sync your contacts across all social platforms into one place.",
+		"image": "/images/home/social/main.png",
+		"ctaButton": {
+			"text": "Let’s Get Social!",
+			"href": "/auth"
+		},
+		"ctaBottom": {
+			"title": "Ready to get social?",
+			"textAction": "Create Your First Event",
+			"href": "/auth"
+		}
+	}
+}

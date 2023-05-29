@@ -1,0 +1,53 @@
+{
+	"menu": [
+		{ "name": "Home", "href": "/", "showInNavbar": true },
+		{ "name": "About", "href": "/about", "showInNavbar": true },
+		{ "name": "FAQ", "href": "/faq", "showInNavbar": true },
+		{ "name": "Careers", "href": "/careers", "showInNavbar": true },
+		{ "name": "Privacy", "href": "/privacy", "showInNavbar": false },
+		{ "name": "Terms", "href": "/terms", "showInNavbar": false }
+	],
+	"authMenu": [{ "name": "Log In", "href": "/auth" }, { "name": "<span class='lg-hidden'>Sign Up</span><span class='max-lg-hidden'>Create Event Page</span>", "href": "/auth" }],
+	"logoNetworkyFull": "/images/logo/networky_full.png",
+	"logoNetworkyIcon": "/images/logo/networky_icon.png",
+	"poweredBy": {
+		"text": "Powered By",
+		"logo": "/images/logo/sygnalxyz.png"
+	},
+	"copyRight": "2023 Networky",
+	"socialMedia": {
+		"title": "Connect with us",
+		"list": [
+			{
+				"alt": "twitter",
+				"url": "https://twitter.com/",
+				"image": "/images/social_media/twitter.svg",
+				"class": "w-14px h-3 sm:w-4 sm:h-14px"
+			},
+			{
+				"alt": "linkedin",
+				"url":  "https://www.linkedin.com/",
+				"image": "/images/social_media/linkedin.svg",
+				"class": "w-14px h-14px sm:w-4 sm:h-4"
+			},
+			{
+				"alt": "instagram",
+				"url":  "https://www.instagram.com/",
+				"image": "/images/social_media/instagram.svg",
+				"class": "w-4 h-4 sm:w-18px sm:h-18px"
+			},
+			{
+				"alt": "medium",
+				"url":  "https://medium.com/",
+				"image": "/images/social_media/medium.svg",
+				"class": "w-[18px] h-[11px] sm:w-[21px] sm:h-[13px]"
+			},
+			{
+				"alt": "telegram",
+				"url":  "https://web.telegram.org/",
+				"image": "/images/social_media/telegram.svg",
+				"class": "w-[15px] h-14px sm:w-[17px] sm:h-4"	
+			}
+		]
+	}
+}
