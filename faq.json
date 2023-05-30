@@ -1,0 +1,126 @@
+{
+	"title": "Here’s how this works",
+	"list": [
+		{
+			"name": "About Networky",
+			"image": "/images/emoji/waving_hand.png",
+			"data": [
+				{
+					"question": "Who is Networky for?",
+					"answer": ""
+				},
+				{
+					"question": "Why use Networky?",
+					"answer": ""
+				},
+				{
+					"question": "What types of events does Networky support?",
+					"answer": ""
+				},
+				{
+					"question": "Where do Networky events happen?",
+					"answer": ""
+				},
+				{
+					"question": "Do you ever spam my guests?",
+					"answer": ""
+				},
+				{
+					"question": "How do you make money?",
+					"answer": ""
+				},
+				{
+					"question": "How do I change the phone number associated with my Networky account?",
+					"answer": ""
+				}
+			]
+		},
+		{
+			"name": "Inviting Guests",
+			"image": "/images/emoji/people.png",
+			"data": [
+				{
+					"question": "How do I invite guests to my event?",
+					"answer": ""
+				},
+				{
+					"question": "How can guests change their RSVP?",
+					"answer": ""
+				},
+				{
+					"question": "What are guest phone numbers used for?",
+					"answer": ""
+				},
+				{
+					"question": "Can you track who I've invited?",
+					"answer": ""
+				},
+				{
+					"question": "How do I ask questions to my guests?",
+					"answer": ""
+				},
+				{
+					"question": "Can I limit who gets on my guest list?",
+					"answer": ""
+				},
+				{
+					"question": "How can I allow guests to see the location without having to RSVP first?",
+					"answer": ""
+				},
+				{
+					"question": "If I remove some from my guest list, will they be notified and will they still be able to see the event and details?",
+					"answer": ""
+				}
+			]
+		},
+		{
+			"name": "Managing Event",
+			"image": "/images/emoji/calendar.png",
+			"data": [
+				{
+					"question": "How do I make changes to my event?",
+					"answer": ""
+				},
+				{
+					"question": "How can I limit group size?",
+					"answer": ""
+				},
+				{
+					"question": "How do I add cohosts?",
+					"answer": ""
+				},
+				{
+					"question": "Do I get notified when someone RSVPs?",
+					"answer": ""
+				},
+				{
+					"question": "How can I export my guest list?",
+					"answer": ""
+				}
+			]
+		},
+		{
+			"name": "Event Reminders",
+			"image": "/images/emoji/alarm.png",
+			"data": [
+				{
+					"question": "Do you send automatic event reminders?",
+					"answer": ""
+				},
+				{
+					"question": "Can I send my own reminders?",
+					"answer": ""
+				},
+				{
+					"question": "I’m not getting Partiful texts anymore, how do I reenable them?",
+					"answer": ""
+				}
+			]
+		},
+		{
+			"name": "Collect Money",
+			"image": "/images/emoji/money_bag.png",
+			"data": []
+		}
+	]
+}
