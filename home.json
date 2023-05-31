@@ -1,7 +1,7 @@
 {
 	"hero": {
 		"title": "Host <span class='back-underline-orange back-underline-large'>Fruitful</span> Meetups",
-		"tagline": "Manage Your Guestlist Easily with <span class='back-underline-purple back-underline-medium'>Automated PRM</span>",
+		"tagline": "Manage Your Guestlist Easily <span class='sm-hidden'><br /></span>with <span class='back-underline-purple back-underline-medium'>Automated PRM</span>",
 		"desc": "Personal Relationship Management (PRM) Platform",
 		"image": {
 			"web": "/images/home/hero/main_web.png",
