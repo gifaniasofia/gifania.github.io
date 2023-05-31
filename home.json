@@ -1,7 +1,8 @@
 {
 	"hero": {
-		"title": "Grow your <span class='back-underline-purple'>network</span> the <span class='back-underline-orange'>easy</span> way",
-		"desc": "Personal CRM for Event Organizers",
+		"title": "Host <span class='back-underline-orange back-underline-large'>Fruitful</span> Meetups",
+		"tagline": "Manage Your Guestlist Easily with <span class='back-underline-purple back-underline-medium'>Automated PRM</span>",
+		"desc": "Personal Relationship Management (PRM) Platform",
 		"image": {
 			"web": "/images/home/hero/main_web.png",
 			"mobile": "/images/home/hero/main_mobile.png"
