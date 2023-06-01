@@ -41,35 +41,40 @@
 			"data": [
 				{
 					"question": "How do I invite guests to my event?",
-					"answer": ""
+					"answer": "Hit the \"Share Invite\" button to share your event link on any platform: text, Instagram, Snapchat, Slack, WhatsApp, Messenger, email, and more. You can share it individually or in group DMs. Guests RSVP with their phone number, so you'll be able to text blast <a href='https://partiful.com/faq/ap#event-reminders' target='_blank' rel='noopener noreferrer' class='text-underline text-underline-offset-2'>updates and reminders</a> directly to their phones.",
+					"images": [
+						"/images/faq/inviting_guests_1.png",
+						"/images/faq/inviting_guests_2.png"
+					]
 				},
 				{
 					"question": "How can guests change their RSVP?",
-					"answer": ""
+					"answer": "After someone RSVPs, we text them a link that they can use to change their RSVP. They can also RSVP again using the original link you shared with them and the same phone number, and it will replace their previous RSVP. Guests currently can't change their RSVP for listed (\"Get on the list\") events.",
+					"images": ["/images/faq/inviting_guests_3.png"]
 				},
 				{
 					"question": "What are guest phone numbers used for?",
-					"answer": ""
+					"answer": "<ol style='margin-left:16px;'><li>To make it easy for guests to change their RSVP or see event details by logging into Networky with their phone number</li><li>To send <a href='https://partiful.com/faq/er' target='_blank' rel='noopener noreferrer' class='text-underline text-underline-offset-2'>automatic text reminders</a> for your event (you can turn these off if you want)</li><li>To allow you to easily communicate with guests by text blasting updates and reminders‍We don't send marketing texts or anything unrelated to your event.</li></ol>"
 				},
 				{
 					"question": "Can you track who I've invited?",
-					"answer": ""
+					"answer": "No, but if someone RSVPs \"Maybe,\" we'll text them a reminder to finalize their RSVP."
 				},
 				{
 					"question": "How do I ask questions to my guests?",
-					"answer": ""
+					"answer": "In settings, enable Guest Questionnaire to collect information from your attendees. You can click any guest profile to view their answers, or export all answers in Export Guest List."
 				},
 				{
 					"question": "Can I limit who gets on my guest list?",
-					"answer": ""
+					"answer": "Yes! You can enable “Require Guest Approval” in settings to prompt guests to apply for your guest list. When managing guests, you’ll be able to set a guest’s status as Approved, Pending, or Remove."
 				},
 				{
 					"question": "How can I allow guests to see the location without having to RSVP first?",
-					"answer": ""
+					"answer": "You can add the location to the event description, which is visible prior to RSVP."
 				},
 				{
 					"question": "If I remove some from my guest list, will they be notified and will they still be able to see the event and details?",
-					"answer": ""
+					"answer": "If you remove someone from your guest list, they will not be notified. They won’t be able to see event details like location and who else is going. They would still be able to see everything that’s visible to non-RSVP’ed guests, such as event title, image, and description. If you’d like to prevent them from seeing these details, you can add a password to your event page (be sure to text blast existing guests so they know the password)."
 				}
 			]
 		},
@@ -79,23 +84,25 @@
 			"data": [
 				{
 					"question": "How do I make changes to my event?",
-					"answer": ""
+					"answer": "You can edit your event page at any time, even after sending invites. Just tap the \"Edit Invite\" button on your event page to edit event details, change your page design, or configure event settings.",
+					"images": ["/images/faq/managing_event_1.png"]
 				},
 				{
 					"question": "How can I limit group size?",
-					"answer": ""
+					"answer": "Set a maximum capacity for the event and enable an automatic waitlist. If a spot opens up, we'll automatically add the next waitlisted guest and notify them via text.<br />You can also limit the number of +1 each guest is allowed to bring (under Settings).",
+					"images": ["/images/faq/managing_event_2.png"]
 				},
 				{
 					"question": "How do I add cohosts?",
-					"answer": ""
+					"answer": "In Settings, you'll see an option to add a co-host.<br />Anyone you want to add as a co-host must first be a guest of the event (or a past event). If someone is new to Partiful, they will have to first RSVP to your event before you can add them."
 				},
 				{
 					"question": "Do I get notified when someone RSVPs?",
-					"answer": ""
+					"answer": "Right now, we only text you the first time someone RSVPs. Soon, we'll have a way for you to subscribe to notifications every time someone RSVPs."
 				},
 				{
 					"question": "How can I export my guest list?",
-					"answer": ""
+					"answer": "To download a CSV file of your guest list, go to your Guest List and tap the 3 dots in the top right corner. You'll see an option to Export Guest List. You can then choose which type(s) of RSVP you'd like to export."
 				}
 			]
 		},
@@ -105,15 +112,17 @@
 			"data": [
 				{
 					"question": "Do you send automatic event reminders?",
-					"answer": ""
+					"answer": "Yes! For guests who RSVP \"Going\", we text reminders the day before the event and 2 hours before the event. If someone RSVPs \"Maybe,\" we'll remind them to finalize their RSVP leading up to the event — 2 weeks before, 1 week before, and 1 day before the event.You can toggle reminders on/off by going to your event page, tapping \"Edit Invite,\" then going to \"Settings\":",
+					"images": ["/images/faq/event_reminders_1.png"]
 				},
 				{
 					"question": "Can I send my own reminders?",
-					"answer": ""
+					"answer": "Yes! Hit \"Text Blast\" → \"New Message\" to send a text to groups of guests. You can also send a photo along with your message.",
+					"images": ["/images/faq/event_reminders_2.png"]
 				},
 				{
 					"question": "I’m not getting Partiful texts anymore, how do I reenable them?",
-					"answer": ""
+					"answer": "You may have unsubscribed from Partiful texts. Text START to 855-607-1245 to start receiving texts again (only works for US numbers).If that didn't work, you might have accidentally blocked the Partiful number! Here’s how to re-enable it:On iPhone: Go to the Settings app and select Messages. Under SMS/MMS, select Blocked, and then select Edit in the top right corner. Click the (-) sign beside our number (855-607-1245) and choose Unblocked.On Android: Go to the Phone app and select More. Under Settings, select Blocked Numbers, and then tap the (X) sign beside our number (855-607-1245) to unblock."
 				}
 			]
 		},
