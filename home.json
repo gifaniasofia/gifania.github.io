@@ -29,52 +29,99 @@
 	},
 	"runningKeywords": [
 		{
-			"id": "keyword-1",
 			"icon": "circle",
 			"text": "VC Dinner Party",
-			"color": "#00CB77"
+			"color": "#5218FF"
 		},
 		{
-			"id": "keyword-2",
 			"icon": "blink",
 			"text": "Web3",
 			"color": "#FF4600"
 		},
 		{
-			"id": "keyword-3",
 			"icon": "circle",
 			"text": "Launch Event",
 			"color": "#00CB77"
 		},
 		{
-			"id": "keyword-4",
 			"icon": "square",
 			"text": "Blockchain Hackathon",
 			"color": "#FFB300"
 		},
 		{
-			"id": "keyword-5",
 			"icon": "star",
 			"text": "Founder Meetup",
 			"color": "#5218FF"
 		},
 		{
-			"id": "keyword-6",
 			"icon": "diamond",
 			"text": "Happy Hour",
 			"color": "#FF4600"
 		},
 		{
-			"id": "keyword-7",
 			"icon": "square",
 			"text": "Gaming Conference",
 			"color": "#C972FF"
 		},
 		{
-			"id": "keyword-8",
 			"icon": "star",
 			"text": "Web3 Rooftop Party",
 			"color": "#FFB300"
+		},
+		{
+			"icon": "circle",
+			"text": "Meetup",
+			"color": "#00CB77"
+		},
+		{
+			"icon": "blink",
+			"text": "Hackathon",
+			"color": "#FF4600"
+		},
+		{
+			"icon": "circle",
+			"text": "Networking",
+			"color": "#5218FF"
+		},
+		{
+			"icon": "square",
+			"text": "Career Day",
+			"color": "#FFB300"
+		},
+		{
+			"icon": "star",
+			"text": "Demo Day",
+			"color": "#FF4600"
+		},
+		{
+			"icon": "diamond",
+			"text": "Launch Party",
+			"color": "#C972FF"
+		},
+		{
+			"icon": "square",
+			"text": "Fireside Chat",
+			"color": "#00CB77"
+		},
+		{
+			"icon": "star",
+			"text": "Breakfast Meetup",
+			"color": "#FFB300"
+		},
+		{
+			"icon": "circle",
+			"text": "Web2",
+			"color": "#C972FF"
+		},
+		{
+			"icon": "blink",
+			"text": "Technology",
+			"color": "#FFB300"
+		},
+		{
+			"icon": "square",
+			"text": "Networking Drinks",
+			"color": "#00CB77"
 		}
 	],
 	"event": {
@@ -150,15 +197,15 @@
 							"video": "https://assets.getpartiful.com/animations/sparkles/web.mp4"
 						},
 						{
-							"thumbnail": "https://assets.getpartiful.com/animations/fireworks/thumbnail.png",
+							"thumbnail": "/images/effects/thumbnail_path.png",
 							"video": "https://assets.getpartiful.com/animations/fireworks/web.mp4"
 						},
 						{
-							"thumbnail": "https://assets.getpartiful.com/animations/snowflakes/thumbnail.png",
+							"thumbnail": "/images/effects/thumbnail_rocket.png",
 							"video": "https://assets.getpartiful.com/animations/snowflakes/web.mp4"
 						},
 						{
-							"thumbnail": "https://assets.getpartiful.com/animations/sakura/thumbnail.png",
+							"thumbnail": "/images/effects/thumbnail_money.png",
 							"video": "https://assets.getpartiful.com/animations/sakura/web.mp4"
 						}
 					]
@@ -168,79 +215,79 @@
 				"title": "( Browse more effects )",
 				"href": "/auth"
 			}
-		},
-		"optionalFeatures": {
-			"title": "Add Optional Features",
-			"list": [
-				{
-					"title": "Enable Waitlist",
-					"desc": "Easily set up an event waitlist and pre-vet all attendees.",
-					"image": "/images/home/event/memo.png"
-				},
-				{
-					"title": "Password Protected",
-					"desc": "Only guests with a password can access your event page.",
-					"image": "/images/home/event/key.png"
-				},
-				{
-					"title": "Sell NFT Tickets",
-					"desc": "As an event host, you can sell NFT tickets.",
-					"image": "/images/home/event/money.png"
-				},
-				{
-					"title": "Guest Questionnaire",
-					"desc": "Ask your guests questions as part of an event RSVP process.",
-					"image": "/images/home/event/eyes.png"
-				}
-			],
-			"ctaButton": {
-				"text": "Create Your First Event!",
-				"href": "/auth"
+		}
+	},
+	"optionalFeatures": {
+		"title": "Add Optional Features",
+		"list": [
+			{
+				"title": "Enable Waitlist",
+				"desc": "Easily set up an event waitlist and pre-vet all attendees.",
+				"image": "/images/home/event/memo.png"
+			},
+			{
+				"title": "Password Protected",
+				"desc": "Only guests with a password can access your event page.",
+				"image": "/images/home/event/key.png"
+			},
+			{
+				"title": "Sell NFT Tickets",
+				"desc": "As an event host, you can sell NFT tickets.",
+				"image": "/images/home/event/money.png"
+			},
+			{
+				"title": "Guest Questionnaire",
+				"desc": "Ask your guests questions as part of an event RSVP process.",
+				"image": "/images/home/event/eyes.png"
 			}
-		},
-		"manageGuest": {
-			"title": "Manage your guestlist easily",
-			"list": [
-				{
-					"title": "Share invite link",
-					"desc": "Generate and share event link",
-					"image": "/images/home/event/manage_step_1.png",
-					"bulletColor": "#FF4600",
-					"aspectRatio": "8/10"
-				},
-				{
-					"title": "Invite guests from your Contacts",
-					"desc": "Invite guests in 1-click from your Contacts",
-					"image": "/images/home/event/manage_step_2.png",
-					"bulletColor": "#FF4600",
-					"aspectRatio": "7/10"
-				},
-				{
-					"title": "Track RSVPs",
-					"desc": "Get RSVPs and track who is coming",
-					"image": "/images/home/event/manage_step_3.png",
-					"bulletColor": "#FF4600",
-					"aspectRatio": "8/10"
-				},
-				{
-					"title": "Send automatic reminders",
-					"desc": "Add the event to a guest's calendar and send automatic reminders",
-					"image": "/images/home/event/manage_step_4.png",
-					"bulletColor": "#FF4600",
-					"aspectRatio": "7/10"
-				},
-				{
-					"title": "Track who attended",
-					"desc": "Generate a QR code for a guest to scan at the event",
-					"image": "/images/home/event/manage_step_5.png",
-					"bulletColor": "#FF4600",
-					"aspectRatio": "8/10"
-				}
-			],
-			"ctaButton": {
-				"text": "Create Your First Event!",
-				"href": "/auth"
+		],
+		"ctaButton": {
+			"text": "Create Your First Event!",
+			"href": "/auth"
+		}
+	},
+	"manageGuest": {
+		"title": "Manage your guestlist easily",
+		"list": [
+			{
+				"title": "Share invite link",
+				"desc": "Generate and share event link",
+				"image": "/images/home/event/manage_step_1.png",
+				"bulletColor": "#FF4600",
+				"aspectRatio": "8/10"
+			},
+			{
+				"title": "Invite guests from your Contacts",
+				"desc": "Invite guests in 1-click from your Contacts",
+				"image": "/images/home/event/manage_step_2.png",
+				"bulletColor": "#FF4600",
+				"aspectRatio": "7/10"
+			},
+			{
+				"title": "Track RSVPs",
+				"desc": "Get RSVPs and track who is coming",
+				"image": "/images/home/event/manage_step_3.png",
+				"bulletColor": "#FF4600",
+				"aspectRatio": "8/10"
+			},
+			{
+				"title": "Send automatic reminders",
+				"desc": "Add the event to a guest's calendar and send automatic reminders",
+				"image": "/images/home/event/manage_step_4.png",
+				"bulletColor": "#FF4600",
+				"aspectRatio": "7/10"
+			},
+			{
+				"title": "Track who attended",
+				"desc": "Generate a QR code for a guest to scan at the event",
+				"image": "/images/home/event/manage_step_5.png",
+				"bulletColor": "#FF4600",
+				"aspectRatio": "8/10"
 			}
+		],
+		"ctaButton": {
+			"text": "Create Your First Event!",
+			"href": "/auth"
 		}
 	},
 	"features": {
@@ -268,7 +315,7 @@
 			}
 		],
 		"ctaButton": {
-			"text": "Create Your First Event!",
+			"text": "Try it for Free",
 			"href": "/auth"
 		}
 	},
