@@ -8,6 +8,12 @@
 		{ "name": "Terms", "href": "/terms", "showInNavbar": false },
 		{ "name": "Contact Us", "href": "/contact", "showInNavbar": false }
 	],
+	"menuWebApp": [
+		{ "name": "Privacy", "href": "/privacy", "showInNavbar": false },
+		{ "name": "Terms", "href": "/terms", "showInNavbar": false },
+		{ "name": "Careers", "href": "https://sygnalxyz.notion.site/Networky-Careers-ff2fad770c5d41628fcbe18d3c2c369a", "showInNavbar": true },
+		{ "name": "Contact Us", "href": "/contact", "showInNavbar": false }
+	],
 	"authMenu": [
 		{
 			"name": "Log In",

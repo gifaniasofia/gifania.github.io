@@ -3,7 +3,13 @@
 	"list": [
 		{
 			"name": "Email",
-			"value": "hello@networky.co"
+			"value": "hello@networky.co",
+			"href": "mailto:hello@networky.co"
+		},
+		{
+			"name": "Instagram",
+			"value": "hello@networky.co",
+			"href": "mailto:hello@networky.co"
 		}
 	]
 }
