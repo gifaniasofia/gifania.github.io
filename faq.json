@@ -23,15 +23,15 @@
 				},
 				{
 					"question": "Do you ever spam my guests?",
-					"answer": "Definitely not. We only use guests' numbers to send the notifications mentioned <a href='https://partiful.com/faq/ig#guest-phone-nums' target='_blank' rel='noopener noreferrer' class='text-underline text-underline-offset-2'>here</a> and <a href='https://partiful.com/faq/er' target='_blank' rel='noopener noreferrer' class='text-underline text-underline-offset-2'>here.</a>‍ We will never send marketing texts or anything unrelated to your event.<br />Learn more about our event reminders <a href='https://partiful.com/faq/er' target='_blank' rel='noopener noreferrer' class='text-underline text-underline-offset-2'>here</a>."
+					"answer": "Definitely not. We only use guests' numbers to send the notifications mentioned <a href='https://partiful.com/faq/ig#guest-phone-nums' target='_blank' rel='noopener noreferrer' class='text-underline'>here</a> and <a href='https://partiful.com/faq/er' target='_blank' rel='noopener noreferrer' class='text-underline'>here.</a>‍ We will never send marketing texts or anything unrelated to your event.<br />Learn more about our event reminders <a href='https://partiful.com/faq/er' target='_blank' rel='noopener noreferrer' class='text-underline'>here</a>."
 				},
 				{
 					"question": "How do you make money?",
-					"answer": "We plan to offer party add-ons, starting with disposable cameras. Got ideas on products we should feature? <a href='https://partiful.com/contact' target='_blank' rel='noopener noreferrer' class='text-underline text-underline-offset-2'>Let us know!</a> We will never sell your data to make money (or for any other reason)."
+					"answer": "We plan to offer party add-ons, starting with disposable cameras. Got ideas on products we should feature? <a href='https://partiful.com/contact' target='_blank' rel='noopener noreferrer' class='text-underline'>Let us know!</a> We will never sell your data to make money (or for any other reason)."
 				},
 				{
 					"question": "How do I change the phone number associated with my Networky account?",
-					"answer": "Please <a href='https://partiful.com/contact' target='_blank' rel='noopener noreferrer' class='text-underline text-underline-offset-2'>contact us</a> if you need to change the number on your Networky account.<br /><br />If you have any further questions, <a href='https://www.instagram.com/partiful/' target='_blank' rel='noopener noreferrer' class='text-underline text-underline-offset-2'>DM</a> or <a href='mailto:hello@getpartiful.com' target='_blank' rel='noopener noreferrer' class='text-underline text-underline-offset-2'>email</a> us!"
+					"answer": "Please <a href='https://partiful.com/contact' target='_blank' rel='noopener noreferrer' class='text-underline'>contact us</a> if you need to change the number on your Networky account.<br /><br />If you have any further questions, <a href='https://www.instagram.com/partiful/' target='_blank' rel='noopener noreferrer' class='text-underline'>DM</a> or <a href='mailto:hello@networky.co' target='_blank' rel='noopener noreferrer' class='text-underline'>email</a> us!"
 				}
 			]
 		},
@@ -41,7 +41,7 @@
 			"data": [
 				{
 					"question": "How do I invite guests to my event?",
-					"answer": "Hit the \"Share Invite\" button to share your event link on any platform: text, Instagram, Snapchat, Slack, WhatsApp, Messenger, email, and more. You can share it individually or in group DMs. Guests RSVP with their phone number, so you'll be able to text blast <a href='https://partiful.com/faq/ap#event-reminders' target='_blank' rel='noopener noreferrer' class='text-underline text-underline-offset-2'>updates and reminders</a> directly to their phones.",
+					"answer": "Hit the \"Share Invite\" button to share your event link on any platform: text, Instagram, Snapchat, Slack, WhatsApp, Messenger, email, and more. You can share it individually or in group DMs. Guests RSVP with their phone number, so you'll be able to text blast <a href='https://partiful.com/faq/ap#event-reminders' target='_blank' rel='noopener noreferrer' class='text-underline'>updates and reminders</a> directly to their phones.",
 					"images": [
 						"/images/faq/inviting_guests_1.png",
 						"/images/faq/inviting_guests_2.png"
@@ -54,7 +54,7 @@
 				},
 				{
 					"question": "What are guest phone numbers used for?",
-					"answer": "<ol style='margin-left:16px;'><li>To make it easy for guests to change their RSVP or see event details by logging into Networky with their phone number</li><li>To send <a href='https://partiful.com/faq/er' target='_blank' rel='noopener noreferrer' class='text-underline text-underline-offset-2'>automatic text reminders</a> for your event (you can turn these off if you want)</li><li>To allow you to easily communicate with guests by text blasting updates and reminders‍We don't send marketing texts or anything unrelated to your event.</li></ol>"
+					"answer": "<ol style='margin-left:16px;' class='decimal'><li>To make it easy for guests to change their RSVP or see event details by logging into Networky with their phone number</li><li>To send <a href='https://partiful.com/faq/er' target='_blank' rel='noopener noreferrer' class='text-underline'>automatic text reminders</a> for your event (you can turn these off if you want)</li><li>To allow you to easily communicate with guests by text blasting updates and reminders‍We don't send marketing texts or anything unrelated to your event.</li></ol>"
 				},
 				{
 					"question": "Can you track who I've invited?",
