@@ -24,8 +24,14 @@
 			"href": "/auth"
 		}
 	],
-	"logoNetworkyFull": "/images/logo/networky_full.png",
-	"logoNetworkyIcon": "/images/logo/networky_icon.png",
+	"logoNetworkyFull": {
+		"white": "/images/logo/networky_full_white.png",
+		"black": "/images/logo/networky_full_black.png"
+	},
+	"logoNetworkyIcon": {
+		"white": "/images/logo/networky_icon_white.png",
+		"black": "/images/logo/networky_icon_black.png"
+	},
 	"poweredBy": {
 		"text": "Powered by",
 		"logo": "/images/logo/sygnalxyz.png",

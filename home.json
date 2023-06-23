@@ -8,8 +8,8 @@
 			"mobile": "/images/home/hero/main_mobile.png"
 		},
 		"video": {
-			"web": "",
-			"mobile": ""
+			"web": "/videos/home/hero.mp4",
+			"mobile": "/videos/home/hero.mp4"
 		},
 		"features": [
 			"Create simple event pages",
