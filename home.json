@@ -177,36 +177,50 @@
 					"data": []
 				},
 				{
+					"id": "background",
 					"badge": "TRY IT!",
 					"title": "Select background",
 					"data": [
-						"linear-gradient(180deg, #6F6F6F 0%, rgba(255, 70, 0, 0.2) 100%)",
-						"linear-gradient(180deg, #FF0000 0%, rgba(240, 0, 0, 0) 100%)",
-						"conic-gradient(from 180deg at 50% 50%, #2AF262 0deg, rgba(42, 242, 98, 0) 360deg)",
-						"linear-gradient(225deg, #D66CFF 19.14%, #BC62E4 24.11%, #9052B7 33.46%, #69448F 43.45%, #49386D 53.97%, #2E2F52 65.14%, #1A273C 77.2%, #0B222D 90.6%, #031F25 106.37%, #001E22 130.45%)"
+						{
+							"thumbnail": "/images/backgrounds/background_1.png",
+							"video": "/videos/backgrounds/gradient_1.mp4"
+						},
+						{
+							"thumbnail": "/images/backgrounds/background_2.png",
+							"video": "/videos/backgrounds/gradient_4.mp4"
+						},
+						{
+							"thumbnail": "/images/backgrounds/background_3.png",
+							"video": "/videos/backgrounds/gradient_3.mp4"
+						},
+						{
+							"thumbnail": "/images/backgrounds/background_4.png",
+							"video": "/videos/backgrounds/gradient_5.mp4"
+						}
 					],
-					"dataType": "background"
+					"dataType": "thumbnail-video"
 				},
 				{
+					"id": "effect",
 					"badge": "TRY IT!",
 					"title": "Select effect",
-					"dataType": "thumbnail",
+					"dataType": "thumbnail-video",
 					"data": [
 						{
 							"thumbnail": "/images/effects/thumbnail_sparkling.png",
-							"video": "https://assets.getpartiful.com/animations/sparkles/web.mp4"
+							"video": "/videos/effects/shapes_star.mp4"
 						},
 						{
 							"thumbnail": "/images/effects/thumbnail_path.png",
-							"video": "https://assets.getpartiful.com/animations/fireworks/web.mp4"
+							"video": "/videos/effects/shapes_lines.mp4"
 						},
 						{
 							"thumbnail": "/images/effects/thumbnail_rocket.png",
-							"video": "https://assets.getpartiful.com/animations/snowflakes/web.mp4"
+							"video": "/videos/effects/rocket.mp4"
 						},
 						{
 							"thumbnail": "/images/effects/thumbnail_money.png",
-							"video": "https://assets.getpartiful.com/animations/sakura/web.mp4"
+							"video": "/videos/effects/money.mp4"
 						}
 					]
 				}
