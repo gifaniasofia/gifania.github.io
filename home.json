@@ -208,19 +208,19 @@
 					"data": [
 						{
 							"thumbnail": "/images/effects/thumbnail_sparkling.png",
-							"video": "/videos/effects/shapes_star.mp4"
+							"video": "/videos/effects/starry.gif"
 						},
 						{
 							"thumbnail": "/images/effects/thumbnail_path.png",
-							"video": "/videos/effects/shapes_lines.mp4"
+							"video": "/videos/effects/lines_1.gif"
 						},
 						{
 							"thumbnail": "/images/effects/thumbnail_rocket.png",
-							"video": "/videos/effects/rocket.mp4"
+							"video": "/videos/effects/rocket.gif"
 						},
 						{
 							"thumbnail": "/images/effects/thumbnail_money.png",
-							"video": "/videos/effects/money.mp4"
+							"video": "/videos/effects/money.gif"
 						}
 					]
 				}
