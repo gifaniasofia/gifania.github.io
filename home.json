@@ -180,6 +180,7 @@
 					"id": "background",
 					"badge": "TRY IT!",
 					"title": "Select background",
+					"indexDefaultSelect": 1,
 					"data": [
 						{
 							"thumbnail": "/images/backgrounds/background_1.png",
@@ -205,6 +206,7 @@
 					"badge": "TRY IT!",
 					"title": "Select effect",
 					"dataType": "thumbnail-video",
+					"indexDefaultSelect": 3,
 					"data": [
 						{
 							"thumbnail": "/images/effects/thumbnail_sparkling.png",
