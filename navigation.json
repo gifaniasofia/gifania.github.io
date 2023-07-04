@@ -44,32 +44,32 @@
 			{
 				"alt": "twitter",
 				"url": "https://twitter.com/",
-				"image": "/images/social_media/twitter.svg",
-				"class": "w-14px h-3 sm:w-4 sm:h-14px"
+				"image": "/images/social_media/twitter.png",
+				"class": "p-1 sm:p-1.5"
 			},
 			{
 				"alt": "linkedin",
 				"url":  "https://www.linkedin.com/",
-				"image": "/images/social_media/linkedin.svg",
-				"class": "w-14px h-14px sm:w-4 sm:h-4"
+				"image": "/images/social_media/linkedin.png",
+				"class": "p-1 sm:p-1.5"
 			},
 			{
 				"alt": "instagram",
 				"url":  "https://www.instagram.com/",
-				"image": "/images/social_media/instagram.svg",
-				"class": "w-4 h-4 sm:w-18px sm:h-18px"
+				"image": "/images/social_media/instagram.png",
+				"class": "p-1 sm:p-1.5"
 			},
 			{
 				"alt": "medium",
 				"url":  "https://medium.com/",
-				"image": "/images/social_media/medium.svg",
-				"class": "w-[18px] h-[11px] sm:w-[21px] sm:h-[13px]"
+				"image": "/images/social_media/medium.png",
+				"class": "p-1"
 			},
 			{
 				"alt": "telegram",
 				"url":  "https://web.telegram.org/",
-				"image": "/images/social_media/telegram.svg",
-				"class": "w-[15px] h-14px sm:w-[17px] sm:h-4"	
+				"image": "/images/social_media/telegram.png",
+				"class": "p-1 sm:p-1.5"	
 			}
 		]
 	},
