@@ -14,6 +14,15 @@
 		{ "name": "Careers", "href": "https://sygnalxyz.notion.site/Networky-Careers-ff2fad770c5d41628fcbe18d3c2c369a", "showInNavbar": true },
 		{ "name": "Contact Us", "href": "/contact", "showInNavbar": false }
 	],
+	"menuWebAppAuth": [
+		{ "id": "events", "icon": "events", "href": "/events" },
+		{ "id": "contact", "icon": "group_people", "href": "/mutuals" },
+		{ "id": "notifications", "icon": "notification", "href": "/notifications" }
+	],
+	"menuProfile": [
+		{ "id": "profile", "name": "See your profile" },
+		{ "id": "logout", "icon": "logout", "name": "Log Out" }
+	],
 	"authMenu": [
 		{
 			"name": "Log In",
