@@ -40,7 +40,7 @@
 		},
 		{
 			"id": "max_spots",
-			"placeholder": "max  ",
+			"placeholder": "max",
 			"type": "text"
 		},
 		{
