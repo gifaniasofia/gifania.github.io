@@ -1,0 +1,83 @@
+{
+	"saveDraft": "Save Draft",
+	"rsvp": {
+		"title": "RSVP",
+		"options": [
+			{
+				"image": "/images/emoji/smiling_heart_face.png",
+				"text": "I'm Going"
+			},
+			{
+				"image": "/images/emoji/thinking_face.png",
+				"text": "Maybe"
+			},
+			{
+				"image": "/images/emoji/downcast_face.png",
+				"text": "Can't Go"
+			}
+		]
+	},
+	"formProps": [
+		{
+			"id": "title",
+			"placeholder": "Your Event Name",
+			"type": "text"
+		},
+		{
+			"id": "datetime",
+			"placeholder": "Select Date & Time",
+			"type": "daterange"
+		},
+		{
+			"id": "location",
+			"placeholder": "Add Location",
+			"type": "text"
+		},
+		{
+			"id": "location_link",
+			"placeholder": "+ Add google maps link",
+			"type": "text"
+		},
+		{
+			"id": "max_spots",
+			"placeholder": "max",
+			"type": "text"
+		},
+		{
+			"id": "message",
+			"placeholder": "Additional message",
+			"type": "text"
+		},
+		{
+			"id": "description",
+			"placeholder": "Event description",
+			"type": "textarea"
+		}
+	],
+	"uploadCoverProps": {
+		"id": "cover_image",
+		"type": "file"
+	},
+	"generalSettings": {
+		"options": [
+			{
+				"id": "effect",
+				"name": "Effect"
+			},
+			{
+				"id": "settings",
+				"name": "Settings"
+			},
+			{
+				"id": "preview",
+				"name": "Preview"
+			}
+		]
+	},
+	"defaultEffect": {
+		"name": "starry",
+		"source_type": "gif",
+		"source_url": "/videos/effects/starry.gif",
+		"source_thumbnail": "/images/effects/thumbnail_sparkling.png"
+	}
+}
