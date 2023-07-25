@@ -24,7 +24,7 @@
 			"type": "text"
 		},
 		{
-			"id": "datetime",
+			"id": "date_range",
 			"placeholder": "Select Date & Time",
 			"type": "daterange"
 		},
@@ -34,17 +34,17 @@
 			"type": "text"
 		},
 		{
-			"id": "location_link",
+			"id": "map_link",
 			"placeholder": "+ Add google maps link",
 			"type": "text"
 		},
 		{
-			"id": "max_spots",
+			"id": "max_spot",
 			"placeholder": "max",
 			"type": "text"
 		},
 		{
-			"id": "message",
+			"id": "additional_msg",
 			"placeholder": "Additional message",
 			"type": "text"
 		},
@@ -55,7 +55,7 @@
 		}
 	],
 	"uploadCoverProps": {
-		"id": "cover_image",
+		"id": "poster_img",
 		"type": "file"
 	},
 	"generalSettings": {
@@ -79,5 +79,7 @@
 		"source_type": "gif",
 		"source_url": "/videos/effects/starry.gif",
 		"source_thumbnail": "/images/effects/thumbnail_sparkling.png"
-	}
+	},
+	"publishEvent": "Publish Event",
+	"defaultCover": "https://networkydev.s3.us-west-2.amazonaws.com/images/create/default_cover.png"
 }
