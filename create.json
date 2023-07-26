@@ -24,9 +24,9 @@
 			"type": "text"
 		},
 		{
-			"id": "date_range",
+			"id": "datetime",
 			"placeholder": "Select Date & Time",
-			"type": "daterange"
+			"type": "datetime"
 		},
 		{
 			"id": "location",
