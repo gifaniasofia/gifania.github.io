@@ -20,7 +20,7 @@
 	],
 	"menuProfile": [
 		{ "id": "profile", "name": "See your profile" },
-		{ "id": "logout", "icon": "logout", "name": "Log Out" }
+		{ "id": "logout", "icon": "logout", "name": "Log Out", "href": "/auth" }
 	],
 	"menuButtonCreateEvent": {
 		"text": "Create Event",
@@ -28,10 +28,12 @@
 	},
 	"authMenu": [
 		{
+			"id": "login",
 			"name": "Log In",
 			"href": "/auth"
 		},
 		{
+			"id": "create-event",
 			"name": "<span class='lg-hidden'>Sign Up</span><span class='max-lg-hidden'>Create Event Page</span>",
 			"href": "/auth"
 		}
