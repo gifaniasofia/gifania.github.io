@@ -41,7 +41,7 @@
 		},
 		{
 			"id": "max_spot",
-			"placeholder": "max",
+			"placeholder": "Max",
 			"type": "text"
 		},
 		{
