@@ -5,14 +5,17 @@
 		"title": "RSVP",
 		"options": [
 			{
+				"id": "going",
 				"image": "/images/emoji/smiling_heart_face.png",
 				"text": "I'm Going"
 			},
 			{
+				"id": "maybe",
 				"image": "/images/emoji/thinking_face.png",
 				"text": "Maybe"
 			},
 			{
+				"id": "not_going",
 				"image": "/images/emoji/downcast_face.png",
 				"text": "Can't Go"
 			}
