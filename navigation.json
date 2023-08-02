@@ -19,8 +19,7 @@
 		{ "id": "contact", "icon": "group_people", "href": "/mutuals" }
 	],
 	"menuProfile": [
-		{ "id": "profile", "name": "See your profile" },
-		{ "id": "logout", "icon": "logout", "name": "Log Out", "href": "/auth" }
+		{ "id": "profile", "name": "See your profile" }
 	],
 	"menuButtonCreateEvent": {
 		"text": "Create Event",
@@ -57,33 +56,21 @@
 		"list": [
 			{
 				"alt": "twitter",
-				"url": "https://twitter.com/",
+				"url": "https://twitter.com/networkyai",
 				"image": "/images/social_media/twitter.png",
 				"class": "p-1 sm:p-1.5"
 			},
 			{
 				"alt": "linkedin",
-				"url":  "https://www.linkedin.com/",
+				"url":  "https://www.linkedin.com/company/networky-ai/",
 				"image": "/images/social_media/linkedin.png",
 				"class": "p-1 sm:p-1.5"
 			},
 			{
-				"alt": "instagram",
-				"url":  "https://www.instagram.com/",
-				"image": "/images/social_media/instagram.png",
-				"class": "p-1 sm:p-1.5"
-			},
-			{
 				"alt": "medium",
-				"url":  "https://medium.com/",
+				"url":  "https://medium.com/@networky",
 				"image": "/images/social_media/medium.png",
 				"class": "p-1"
-			},
-			{
-				"alt": "telegram",
-				"url":  "https://web.telegram.org/",
-				"image": "/images/social_media/telegram.png",
-				"class": "p-1 sm:p-1.5"	
 			}
 		]
 	},
