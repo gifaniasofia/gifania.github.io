@@ -1,0 +1,18 @@
+{
+	"default": {
+		"title": "Cancel this Event?",
+		"warning": {
+			"image": "/images/emoji/warning.png",
+			"text": "Are you sure you want to cancel this event?"
+		},
+		"btnText": "Cancel Event"
+	},
+	"withRSVP": {
+		"title": "Cancel this Event?",
+		"warning": {
+			"image": "/images/emoji/warning.png",
+			"text": "This action can’t be undone."
+		},
+		"btnText": "Cancel & Notify"
+	}
+}
