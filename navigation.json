@@ -34,7 +34,7 @@
 		{
 			"id": "create-event",
 			"name": "<span class='lg-hidden'>Sign Up</span><span class='max-lg-hidden'>Create Event Page</span>",
-			"href": "/auth"
+			"href": "/create"
 		}
 	],
 	"logoNetworkyFull": {
@@ -57,7 +57,7 @@
 			{
 				"alt": "twitter",
 				"url": "https://twitter.com/networkyai",
-				"image": "/images/social_media/twitter.png",
+				"image": "/images/social_media/twitter_x.png",
 				"class": "p-1 sm:p-1.5"
 			},
 			{
@@ -77,6 +77,6 @@
 	"ctaBottom": {
 		"title": "Ready to get social?",
 		"textAction": "Create Your First Event",
-		"href": "/auth"
+		"href": "/create"
 	}
 }
