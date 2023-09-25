@@ -19,10 +19,12 @@
 		{ "id": "contact", "icon": "group_people", "href": "/mutuals" }
 	],
 	"menuProfile": [
-		{ "id": "profile", "name": "See your profile" }
+		{ "id": "profile", "name": "See your profile" },
+		{ "id": "logout", "icon": "logout", "name": "Logout" }
 	],
 	"menuButtonCreateEvent": {
 		"text": "Create Event",
+		"textMobile": "Create",
 		"href": "/create"
 	},
 	"authMenu": [
@@ -30,11 +32,6 @@
 			"id": "login",
 			"name": "Log In",
 			"href": "/auth"
-		},
-		{
-			"id": "create-event",
-			"name": "<span class='lg-hidden'>Sign Up</span><span class='max-lg-hidden'>Create Event Page</span>",
-			"href": "/create"
 		}
 	],
 	"logoNetworkyFull": {
@@ -58,18 +55,24 @@
 				"alt": "twitter",
 				"url": "https://twitter.com/networkyai",
 				"image": "/images/social_media/twitter_x.png",
+				"width": 15,
+				"height": 15,
 				"class": "p-1 sm:p-1.5"
 			},
 			{
 				"alt": "linkedin",
 				"url":  "https://www.linkedin.com/company/networky-ai/",
 				"image": "/images/social_media/linkedin.png",
+				"width": 15,
+				"height": 15,
 				"class": "p-1 sm:p-1.5"
 			},
 			{
 				"alt": "medium",
 				"url":  "https://medium.com/@networky",
 				"image": "/images/social_media/medium.png",
+				"width": 20,
+				"height": 11,
 				"class": "p-1"
 			}
 		]

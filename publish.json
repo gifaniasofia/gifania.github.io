@@ -18,7 +18,7 @@
 		"linkImage": "/images/emoji/link.png",
 		"info": {
 			"image": "/images/emoji/information.png",
-			"text": "Contacts will be automatically added after you host your first event."
+			"text": "Automatically invite contacts after you host your first event."
 		},
 		"shareCopyLink": "Share by event link instead",
 		"viewEvent": "View My Event"

@@ -1,15 +1,15 @@
 {
 	"hero": {
-		"title": "Host <span class='back-underline-orange back-underline-large'>Fruitful</span> Meetups",
-		"tagline": "Create a simple event page, invite guests and manage a guestlist in 1-click",
+		"title": "Host Fruitful Meetups",
+		"tagline": "Create a simple event page,<span class='lg-hidden'><br /></span> invite guests and manage<span class='lg-hidden'><br /></span> a guestlist in 1-click",
 		"desc": "",
 		"image": {
-			"web": "/images/home/hero/main_web.png",
-			"mobile": "/images/home/hero/main_mobile.png"
+			"web": "/videos/home/hero.gif",
+			"mobile": "/videos/home/hero.gif"
 		},
 		"video": {
-			"web": "/videos/home/hero.mp4",
-			"mobile": "/videos/home/hero.mp4"
+			"web": "",
+			"mobile": ""
 		},
 		"features": [],
 		"ctaButton": {
@@ -223,7 +223,7 @@
 				}
 			],
 			"ctaMore": {
-				"title": "( Browse more effects )",
+				"title": "Browse more effects",
 				"href": "/auth"
 			}
 		}
@@ -260,35 +260,35 @@
 				"desc": "Generate and share event link",
 				"image": "/images/home/event/manage_step_1.png",
 				"bulletColor": "#FF4600",
-				"aspectRatio": "8/10"
+				"aspectRatio": "183/218"
 			},
 			{
 				"title": "Invite guests<span class='md-hidden'><br /></span> from<span class='max-md-hidden'><br /></span> your Contacts",
 				"desc": "Invite guests in 1-click from your Contacts",
 				"image": "/images/home/event/manage_step_2.png",
 				"bulletColor": "#FF4600",
-				"aspectRatio": "7/10"
+				"aspectRatio": "183/281"
 			},
 			{
 				"title": "Track RSVPs",
 				"desc": "Get RSVPs and track who is coming",
 				"image": "/images/home/event/manage_step_3.png",
 				"bulletColor": "#FF4600",
-				"aspectRatio": "8/10"
+				"aspectRatio": "183/213"
 			},
 			{
 				"title": "Send automatic<span class='max-md-hidden'><br /></span> reminders",
 				"desc": "Add the event to a guest's calendar and send automatic reminders",
 				"image": "/images/home/event/manage_step_4.png",
 				"bulletColor": "#FF4600",
-				"aspectRatio": "7/10"
+				"aspectRatio": "185/226"
 			},
 			{
 				"title": "Track<span class='max-md-hidden'><br /></span> who attended",
 				"desc": "Generate a QR code for a guest to scan at the event",
 				"image": "/images/home/event/manage_step_5.png",
 				"bulletColor": "#FF4600",
-				"aspectRatio": "8/10"
+				"aspectRatio": "185/213"
 			}
 		],
 		"ctaButton": {
@@ -301,23 +301,29 @@
 			{
 				"id": "feature-1",
 				"icon": "/images/home/features/emoji_starstruck.png",
+				"iconMobile": "/images/home/features/emoji_starstruck_mobile.png",
 				"title": "Easily create<br />event pages",
 				"desc": "Create event pages in minutes then share with your guests.",
-				"image": "/images/home/features/features_event.png"
+				"image": "/images/home/features/features_event.png",
+				"imageMobile": "/images/home/features/features_event_mobile.png"
 			},
 			{
 				"id": "feature-2",
 				"icon": "/images/home/features/emoji_person.png",
+				"iconMobile": "/images/home/features/emoji_person_mobile.png",
 				"title": "Invite guests<br />in 1-click",
 				"desc": "Invite your past guests in 1-click or share event link anywhere.",
-				"image": "/images/home/features/features_crm.png"
+				"image": "/images/home/features/features_crm.png",
+				"imageMobile": "/images/home/features/features_crm_mobile.png"
 			},
 			{
 				"id": "feature-3",
 				"icon": "/images/home/features/emoji_callme.png",
+				"iconMobile": "/images/home/features/emoji_callme_mobile.png",
 				"title": "Send automatic<br />follow-ups",
 				"desc": "Track who came to your event, build stronger relationships with automatic follow-ups.",
-				"image": "/images/home/features/features_automation.png"
+				"image": "/images/home/features/features_automation.png",
+				"imageMobile": "/images/home/features/features_automation_mobile.png"
 			}
 		],
 		"ctaButton": {
@@ -338,7 +344,10 @@
 		"title": "Automation",
 		"subtitle": "Send automatic<br />follow-ups",
 		"desc": "Never forget to send a follow-up message with reminders and automatic follow-ups.",
-		"image": "/images/home/automation/main.png",
+		"image": {
+			"web": "/images/home/automation/main_web.png",
+			"mobile": "/images/home/automation/main_mobile.png"
+		},
 		"ctaButton": {
 			"text": "Create Your First Meetup",
 			"href": "/auth"
