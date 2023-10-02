@@ -15,16 +15,25 @@
 		{ "name": "Contact Us", "href": "/contact" }
 	],
 	"menuWebAppAuth": [
-		{ "id": "events", "icon": "events", "href": "/events" },
-		{ "id": "contact", "icon": "group_people", "href": "/mutuals" }
+		{
+			"id": "events",
+			"name": "Events",
+			"icon": "events",
+			"href": "/events"
+		},
+		{
+			"id": "contact",
+			"name": "My Contacts",
+			"icon": "group_people",
+			"href": "/mutuals"
+		}
 	],
 	"menuProfile": [
 		{ "id": "profile", "name": "See your profile" },
 		{ "id": "logout", "icon": "logout", "name": "Logout" }
 	],
 	"menuButtonCreateEvent": {
-		"text": "Create Event",
-		"textMobile": "Create",
+		"text": "Create",
 		"href": "/create"
 	},
 	"authMenu": [
