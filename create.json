@@ -55,7 +55,7 @@
 		{
 			"id": "description",
 			"placeholder": "Add event description",
-			"type": "textarea"
+			"type": "editor"
 		}
 	],
 	"uploadCoverProps": {
