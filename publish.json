@@ -8,7 +8,7 @@
 		"btnAction": "Invite Guests"
 	},
 	"invitationSent": {
-		"title": "Your guests received invites!",
+		"title": "Your guests received invites.",
 		"desc": "Your guests received event invites with RSVP link via SMS",
 		"btnAction": "View My Event"
 	},
