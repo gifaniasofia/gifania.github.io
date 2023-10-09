@@ -30,7 +30,7 @@
 	],
 	"menuProfile": [
 		{ "id": "profile", "name": "See your profile" },
-		{ "id": "logout", "icon": "logout", "name": "Logout" }
+		{ "id": "logout", "icon": "logout", "name": "Log out" }
 	],
 	"menuButtonCreateEvent": {
 		"text": "Create",
