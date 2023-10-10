@@ -48,11 +48,6 @@
 			"type": "text"
 		},
 		{
-			"id": "additional_msg",
-			"placeholder": "Additional message",
-			"type": "text"
-		},
-		{
 			"id": "description",
 			"placeholder": "Add event description",
 			"type": "editor"
