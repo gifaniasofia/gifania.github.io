@@ -34,12 +34,12 @@
 		},
 		{
 			"id": "location",
-			"placeholder": "Add Location",
+			"placeholder": "Add Event Location",
 			"type": "text"
 		},
 		{
-			"id": "map_link",
-			"placeholder": "+ Add google maps link",
+			"id": "addr_note",
+			"placeholder": "Add specific instruction",
 			"type": "text"
 		},
 		{
