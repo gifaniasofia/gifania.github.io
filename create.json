@@ -43,11 +43,6 @@
 			"type": "text"
 		},
 		{
-			"id": "max_spot",
-			"placeholder": "Max",
-			"type": "text"
-		},
-		{
 			"id": "description",
 			"placeholder": "Add event description",
 			"type": "editor"
