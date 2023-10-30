@@ -75,5 +75,6 @@
 		"source_thumbnail": "/images/effects/thumbnail_sparkling.png"
 	},
 	"publishEvent": "Publish Event",
-	"defaultCover": "/images/create/default_cover.png"
+	"defaultCover": "/images/create/default_cover.png",
+	"notesRegister": "By registering to this event, the host will receive your contact information such as your name, email and phone number."
 }
