@@ -9,7 +9,8 @@
 		},
 		"video": {
 			"web": "",
-			"mobile": ""
+			"mobile": "",
+			"type": ""
 		},
 		"features": [],
 		"ctaButton": {

@@ -15,6 +15,7 @@
 			"text": "Are you sure you want to cancel this event?",
 			"desc": "This action can’t be undone."
 		},
-		"btnText": "Cancel & Notify"
+		"btnText": "Cancel & Notify",
+		"info": "We'll notify your guests via Email or SMS."
 	}
 }
