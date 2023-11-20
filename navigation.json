@@ -44,7 +44,7 @@
 		},
 		{
 			"id": "create-event",
-			"name": "<span class='lg-hidden'>Sign Up</span><span class='max-lg-hidden'>Create Event Page</span>",
+			"name": "<span class='lg-hidden'>Create</span><span class='max-lg-hidden'>Create Event Page</span>",
 			"href": "/create"
 		}
 	],
