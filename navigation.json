@@ -45,7 +45,7 @@
 		{
 			"id": "create-event",
 			"name": "Sign Up",
-			"href": "/create"
+			"href": "/auth"
 		}
 	],
 	"logoNetworkyFull": {
