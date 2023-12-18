@@ -19,7 +19,7 @@
 			"id": "events",
 			"name": "Events",
 			"icon": "events",
-			"href": "/events"
+			"href": "/dashboard"
 		},
 		{
 			"id": "contact",

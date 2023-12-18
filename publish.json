@@ -9,7 +9,7 @@
 	},
 	"invitationSent": {
 		"title": "Your guests received invites.",
-		"desc": "Your guests received event invites with RSVP link via SMS",
+		"desc": "Your guests received event invites with RSVP link.",
 		"btnAction": "View My Event"
 	},
 	"share": {

@@ -1,0 +1,21 @@
+{
+	"emptyData": {
+		"hosting": {
+			"title": "You have no upcoming events yet",
+			"createBtnLabel": "Create your first event" 
+		},
+		"invited": {
+			"title": "You have no event invites"
+		},
+		"draft": {
+			"title": "You have no event drafts",
+			"createBtnLabel": "Create your first event" 
+		},
+		"attending": {
+			"title": "You’re not attending any events"
+		},
+		"canceled": {
+			"title": "You have no cancelled events"
+		}
+	}
+}
