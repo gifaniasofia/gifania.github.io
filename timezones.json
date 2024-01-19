@@ -2,6 +2,7 @@
   "data": [
     {
       "zoneName": "Pacific/Niue",
+      "group": [],
       "rawLabel": "(GMT-11:00) Niue Time",
       "label": "Niue Time",
       "gmtOffset": -660,
@@ -9,6 +10,11 @@
     },
     {
       "zoneName": "Pacific/Pago_Pago",
+      "group": [
+        "Pacific/Midway",
+        "Pacific/Samoa",
+        "US/Samoa"
+      ],
       "rawLabel": "(GMT-11:00) Samoa Standard Time",
       "label": "Samoa Standard Time",
       "gmtOffset": -660,
@@ -16,6 +22,10 @@
     },
     {
       "zoneName": "America/Adak",
+      "group": [
+        "America/Atka",
+        "US/Aleutian"
+      ],
       "rawLabel": "(GMT-10:00) Hawaii-Aleutian Time",
       "label": "Hawaii-Aleutian Time",
       "gmtOffset": -600,
@@ -23,6 +33,10 @@
     },
     {
       "zoneName": "Pacific/Honolulu",
+      "group": [
+        "Pacific/Johnston",
+        "US/Hawaii"
+      ],
       "rawLabel": "(GMT-10:00) Hawaii-Aleutian Standard Time",
       "label": "Hawaii-Aleutian Standard Time",
       "gmtOffset": -600,
@@ -30,6 +44,7 @@
     },
     {
       "zoneName": "Pacific/Rarotonga",
+      "group": [],
       "rawLabel": "(GMT-10:00) Cook Islands Standard Time",
       "label": "Cook Islands Standard Time",
       "gmtOffset": -600,
@@ -37,6 +52,7 @@
     },
     {
       "zoneName": "Pacific/Tahiti",
+      "group": [],
       "rawLabel": "(GMT-10:00) Tahiti Time",
       "label": "Tahiti Time",
       "gmtOffset": -600,
@@ -44,6 +60,7 @@
     },
     {
       "zoneName": "Pacific/Marquesas",
+      "group": [],
       "rawLabel": "(GMT-09:30) Marquesas Time",
       "label": "Marquesas Time",
       "gmtOffset": -570,
@@ -51,6 +68,10 @@
     },
     {
       "zoneName": "America/Anchorage",
+      "group": [
+        "AST",
+        "US/Alaska"
+      ],
       "rawLabel": "(GMT-09:00) Alaska Time - Anchorage",
       "label": "Alaska Time - Anchorage",
       "gmtOffset": -540,
@@ -58,6 +79,7 @@
     },
     {
       "zoneName": "America/Juneau",
+      "group": [],
       "rawLabel": "(GMT-09:00) Alaska Time - Juneau",
       "label": "Alaska Time - Juneau",
       "gmtOffset": -540,
@@ -65,6 +87,7 @@
     },
     {
       "zoneName": "America/Metlakatla",
+      "group": [],
       "rawLabel": "(GMT-09:00) Alaska Time - Metlakatla",
       "label": "Alaska Time - Metlakatla",
       "gmtOffset": -540,
@@ -72,6 +95,7 @@
     },
     {
       "zoneName": "America/Nome",
+      "group": [],
       "rawLabel": "(GMT-09:00) Alaska Time - Nome",
       "label": "Alaska Time - Nome",
       "gmtOffset": -540,
@@ -79,6 +103,7 @@
     },
     {
       "zoneName": "America/Sitka",
+      "group": [],
       "rawLabel": "(GMT-09:00) Alaska Time - Sitka",
       "label": "Alaska Time - Sitka",
       "gmtOffset": -540,
@@ -86,6 +111,7 @@
     },
     {
       "zoneName": "America/Yakutat",
+      "group": [],
       "rawLabel": "(GMT-09:00) Alaska Time - Yakutat",
       "label": "Alaska Time - Yakutat",
       "gmtOffset": -540,
@@ -93,6 +119,7 @@
     },
     {
       "zoneName": "Pacific/Gambier",
+      "group": [],
       "rawLabel": "(GMT-09:00) Gambier Time",
       "label": "Gambier Time",
       "gmtOffset": -540,
@@ -100,6 +127,11 @@
     },
     {
       "zoneName": "America/Los_Angeles",
+      "group": [
+        "PST",
+        "US/Pacific",
+        "US/Pacific-New"
+      ],
       "rawLabel": "(GMT-08:00) Pacific Time - Los Angeles",
       "label": "Pacific Time - Los Angeles",
       "gmtOffset": -480,
@@ -107,6 +139,11 @@
     },
     {
       "zoneName": "America/Tijuana",
+      "group": [
+        "America/Ensenada",
+        "America/Santa_Isabel",
+        "Mexico/BajaNorte"
+      ],
       "rawLabel": "(GMT-08:00) Pacific Time - Tijuana",
       "label": "Pacific Time - Tijuana",
       "gmtOffset": -480,
@@ -114,6 +151,9 @@
     },
     {
       "zoneName": "America/Vancouver",
+      "group": [
+        "Canada/Pacific"
+      ],
       "rawLabel": "(GMT-08:00) Pacific Time - Vancouver",
       "label": "Pacific Time - Vancouver",
       "gmtOffset": -480,
@@ -121,6 +161,7 @@
     },
     {
       "zoneName": "Pacific/Pitcairn",
+      "group": [],
       "rawLabel": "(GMT-08:00) Pitcairn Time",
       "label": "Pitcairn Time",
       "gmtOffset": -480,
@@ -128,6 +169,7 @@
     },
     {
       "zoneName": "America/Boise",
+      "group": [],
       "rawLabel": "(GMT-07:00) Mountain Time - Boise",
       "label": "Mountain Time - Boise",
       "gmtOffset": -420,
@@ -135,6 +177,7 @@
     },
     {
       "zoneName": "America/Cambridge_Bay",
+      "group": [],
       "rawLabel": "(GMT-07:00) Mountain Time - Cambridge Bay",
       "label": "Mountain Time - Cambridge Bay",
       "gmtOffset": -420,
@@ -142,6 +185,7 @@
     },
     {
       "zoneName": "America/Ciudad_Juarez",
+      "group": [],
       "rawLabel": "(GMT-07:00) Mountain Time - Ciudad Juárez",
       "label": "Mountain Time - Ciudad Juárez",
       "gmtOffset": -420,
@@ -149,6 +193,7 @@
     },
     {
       "zoneName": "America/Dawson",
+      "group": [],
       "rawLabel": "(GMT-07:00) Yukon Time - Dawson",
       "label": "Yukon Time - Dawson",
       "gmtOffset": -420,
@@ -156,6 +201,7 @@
     },
     {
       "zoneName": "America/Dawson_Creek",
+      "group": [],
       "rawLabel": "(GMT-07:00) Mountain Standard Time - Dawson Creek",
       "label": "Mountain Standard Time - Dawson Creek",
       "gmtOffset": -420,
@@ -163,6 +209,11 @@
     },
     {
       "zoneName": "America/Denver",
+      "group": [
+        "America/Shiprock",
+        "Navajo",
+        "US/Mountain"
+      ],
       "rawLabel": "(GMT-07:00) Mountain Time - Denver",
       "label": "Mountain Time - Denver",
       "gmtOffset": -420,
@@ -170,6 +221,9 @@
     },
     {
       "zoneName": "America/Edmonton",
+      "group": [
+        "Canada/Mountain"
+      ],
       "rawLabel": "(GMT-07:00) Mountain Time - Edmonton",
       "label": "Mountain Time - Edmonton",
       "gmtOffset": -420,
@@ -177,6 +231,7 @@
     },
     {
       "zoneName": "America/Fort_Nelson",
+      "group": [],
       "rawLabel": "(GMT-07:00) Mountain Standard Time - Fort Nelson",
       "label": "Mountain Standard Time - Fort Nelson",
       "gmtOffset": -420,
@@ -184,6 +239,7 @@
     },
     {
       "zoneName": "America/Hermosillo",
+      "group": [],
       "rawLabel": "(GMT-07:00) Mexican Pacific Standard Time - Hermosillo",
       "label": "Mexican Pacific Standard Time - Hermosillo",
       "gmtOffset": -420,
@@ -191,6 +247,7 @@
     },
     {
       "zoneName": "America/Inuvik",
+      "group": [],
       "rawLabel": "(GMT-07:00) Mountain Time - Inuvik",
       "label": "Mountain Time - Inuvik",
       "gmtOffset": -420,
@@ -198,6 +255,9 @@
     },
     {
       "zoneName": "America/Mazatlan",
+      "group": [
+        "Mexico/BajaSur"
+      ],
       "rawLabel": "(GMT-07:00) Mexican Pacific Standard Time - Mazatlan",
       "label": "Mexican Pacific Standard Time - Mazatlan",
       "gmtOffset": -420,
@@ -205,6 +265,11 @@
     },
     {
       "zoneName": "America/Phoenix",
+      "group": [
+        "America/Creston",
+        "PNT",
+        "US/Arizona"
+      ],
       "rawLabel": "(GMT-07:00) Mountain Standard Time - Phoenix",
       "label": "Mountain Standard Time - Phoenix",
       "gmtOffset": -420,
@@ -212,6 +277,9 @@
     },
     {
       "zoneName": "America/Whitehorse",
+      "group": [
+        "Canada/Yukon"
+      ],
       "rawLabel": "(GMT-07:00) Yukon Time - Whitehorse",
       "label": "Yukon Time - Whitehorse",
       "gmtOffset": -420,
@@ -219,6 +287,7 @@
     },
     {
       "zoneName": "America/Yellowknife",
+      "group": [],
       "rawLabel": "(GMT-07:00) Mountain Time - Edmonton",
       "label": "Mountain Time - Edmonton",
       "gmtOffset": -420,
@@ -226,6 +295,7 @@
     },
     {
       "zoneName": "America/Bahia_Banderas",
+      "group": [],
       "rawLabel": "(GMT-06:00) Central Standard Time - Bahía de Banderas",
       "label": "Central Standard Time - Bahía de Banderas",
       "gmtOffset": -360,
@@ -233,6 +303,7 @@
     },
     {
       "zoneName": "America/Belize",
+      "group": [],
       "rawLabel": "(GMT-06:00) Central Standard Time - Belize",
       "label": "Central Standard Time - Belize",
       "gmtOffset": -360,
@@ -240,6 +311,10 @@
     },
     {
       "zoneName": "America/Chicago",
+      "group": [
+        "CST",
+        "US/Central"
+      ],
       "rawLabel": "(GMT-06:00) Central Time - Chicago",
       "label": "Central Time - Chicago",
       "gmtOffset": -360,
@@ -247,6 +322,7 @@
     },
     {
       "zoneName": "America/Chihuahua",
+      "group": [],
       "rawLabel": "(GMT-06:00) Central Standard Time - Chihuahua",
       "label": "Central Standard Time - Chihuahua",
       "gmtOffset": -360,
@@ -254,6 +330,7 @@
     },
     {
       "zoneName": "America/Costa_Rica",
+      "group": [],
       "rawLabel": "(GMT-06:00) Central Standard Time - Costa Rica",
       "label": "Central Standard Time - Costa Rica",
       "gmtOffset": -360,
@@ -261,6 +338,7 @@
     },
     {
       "zoneName": "America/El_Salvador",
+      "group": [],
       "rawLabel": "(GMT-06:00) Central Standard Time - El Salvador",
       "label": "Central Standard Time - El Salvador",
       "gmtOffset": -360,
@@ -268,6 +346,7 @@
     },
     {
       "zoneName": "America/Guatemala",
+      "group": [],
       "rawLabel": "(GMT-06:00) Central Standard Time - Guatemala",
       "label": "Central Standard Time - Guatemala",
       "gmtOffset": -360,
@@ -275,6 +354,10 @@
     },
     {
       "zoneName": "America/Indiana/Knox",
+      "group": [
+        "America/Knox_IN",
+        "US/Indiana-Starke"
+      ],
       "rawLabel": "(GMT-06:00) Central Time - Knox, Indiana",
       "label": "Central Time - Knox, Indiana",
       "gmtOffset": -360,
@@ -282,6 +365,7 @@
     },
     {
       "zoneName": "America/Indiana/Tell_City",
+      "group": [],
       "rawLabel": "(GMT-06:00) Central Time - Tell City, Indiana",
       "label": "Central Time - Tell City, Indiana",
       "gmtOffset": -360,
@@ -289,6 +373,7 @@
     },
     {
       "zoneName": "America/Managua",
+      "group": [],
       "rawLabel": "(GMT-06:00) Central Standard Time - Managua",
       "label": "Central Standard Time - Managua",
       "gmtOffset": -360,
@@ -296,6 +381,7 @@
     },
     {
       "zoneName": "America/Matamoros",
+      "group": [],
       "rawLabel": "(GMT-06:00) Central Time - Matamoros",
       "label": "Central Time - Matamoros",
       "gmtOffset": -360,
@@ -303,6 +389,7 @@
     },
     {
       "zoneName": "America/Menominee",
+      "group": [],
       "rawLabel": "(GMT-06:00) Central Time - Menominee",
       "label": "Central Time - Menominee",
       "gmtOffset": -360,
@@ -310,6 +397,7 @@
     },
     {
       "zoneName": "America/Merida",
+      "group": [],
       "rawLabel": "(GMT-06:00) Central Standard Time - Mérida",
       "label": "Central Standard Time - Mérida",
       "gmtOffset": -360,
@@ -317,6 +405,9 @@
     },
     {
       "zoneName": "America/Mexico_City",
+      "group": [
+        "Mexico/General"
+      ],
       "rawLabel": "(GMT-06:00) Central Standard Time - Mexico City",
       "label": "Central Standard Time - Mexico City",
       "gmtOffset": -360,
@@ -324,6 +415,7 @@
     },
     {
       "zoneName": "America/Monterrey",
+      "group": [],
       "rawLabel": "(GMT-06:00) Central Standard Time - Monterrey",
       "label": "Central Standard Time - Monterrey",
       "gmtOffset": -360,
@@ -331,6 +423,7 @@
     },
     {
       "zoneName": "America/North_Dakota/Beulah",
+      "group": [],
       "rawLabel": "(GMT-06:00) Central Time - Beulah, North Dakota",
       "label": "Central Time - Beulah, North Dakota",
       "gmtOffset": -360,
@@ -338,6 +431,7 @@
     },
     {
       "zoneName": "America/North_Dakota/Center",
+      "group": [],
       "rawLabel": "(GMT-06:00) Central Time - Center, North Dakota",
       "label": "Central Time - Center, North Dakota",
       "gmtOffset": -360,
@@ -345,6 +439,7 @@
     },
     {
       "zoneName": "America/North_Dakota/New_Salem",
+      "group": [],
       "rawLabel": "(GMT-06:00) Central Time - New Salem, North Dakota",
       "label": "Central Time - New Salem, North Dakota",
       "gmtOffset": -360,
@@ -352,6 +447,7 @@
     },
     {
       "zoneName": "America/Ojinaga",
+      "group": [],
       "rawLabel": "(GMT-06:00) Central Time - Ojinaga",
       "label": "Central Time - Ojinaga",
       "gmtOffset": -360,
@@ -359,6 +455,7 @@
     },
     {
       "zoneName": "America/Rainy_River",
+      "group": [],
       "rawLabel": "(GMT-06:00) Central Time - Winnipeg",
       "label": "Central Time - Winnipeg",
       "gmtOffset": -360,
@@ -366,6 +463,7 @@
     },
     {
       "zoneName": "America/Rankin_Inlet",
+      "group": [],
       "rawLabel": "(GMT-06:00) Central Time - Rankin Inlet",
       "label": "Central Time - Rankin Inlet",
       "gmtOffset": -360,
@@ -373,6 +471,10 @@
     },
     {
       "zoneName": "America/Regina",
+      "group": [
+        "Canada/East-Saskatchewan",
+        "Canada/Saskatchewan"
+      ],
       "rawLabel": "(GMT-06:00) Central Standard Time - Regina",
       "label": "Central Standard Time - Regina",
       "gmtOffset": -360,
@@ -380,6 +482,7 @@
     },
     {
       "zoneName": "America/Resolute",
+      "group": [],
       "rawLabel": "(GMT-06:00) Central Time - Resolute",
       "label": "Central Time - Resolute",
       "gmtOffset": -360,
@@ -387,6 +490,7 @@
     },
     {
       "zoneName": "America/Swift_Current",
+      "group": [],
       "rawLabel": "(GMT-06:00) Central Standard Time - Swift Current",
       "label": "Central Standard Time - Swift Current",
       "gmtOffset": -360,
@@ -394,6 +498,7 @@
     },
     {
       "zoneName": "America/Tegucigalpa",
+      "group": [],
       "rawLabel": "(GMT-06:00) Central Standard Time - Tegucigalpa",
       "label": "Central Standard Time - Tegucigalpa",
       "gmtOffset": -360,
@@ -401,6 +506,9 @@
     },
     {
       "zoneName": "America/Winnipeg",
+      "group": [
+        "Canada/Central"
+      ],
       "rawLabel": "(GMT-06:00) Central Time - Winnipeg",
       "label": "Central Time - Winnipeg",
       "gmtOffset": -360,
@@ -408,6 +516,7 @@
     },
     {
       "zoneName": "Pacific/Galapagos",
+      "group": [],
       "rawLabel": "(GMT-06:00) Galapagos Time",
       "label": "Galapagos Time",
       "gmtOffset": -360,
@@ -415,6 +524,7 @@
     },
     {
       "zoneName": "America/Bogota",
+      "group": [],
       "rawLabel": "(GMT-05:00) Colombia Standard Time",
       "label": "Colombia Standard Time",
       "gmtOffset": -300,
@@ -422,6 +532,7 @@
     },
     {
       "zoneName": "America/Cancun",
+      "group": [],
       "rawLabel": "(GMT-05:00) Eastern Standard Time - Cancún",
       "label": "Eastern Standard Time - Cancún",
       "gmtOffset": -300,
@@ -429,6 +540,9 @@
     },
     {
       "zoneName": "America/Detroit",
+      "group": [
+        "US/Michigan"
+      ],
       "rawLabel": "(GMT-05:00) Eastern Time - Detroit",
       "label": "Eastern Time - Detroit",
       "gmtOffset": -300,
@@ -436,6 +550,7 @@
     },
     {
       "zoneName": "America/Eirunepe",
+      "group": [],
       "rawLabel": "(GMT-05:00) Acre Standard Time - Eirunepe",
       "label": "Acre Standard Time - Eirunepe",
       "gmtOffset": -300,
@@ -443,6 +558,7 @@
     },
     {
       "zoneName": "America/Grand_Turk",
+      "group": [],
       "rawLabel": "(GMT-05:00) Eastern Time - Grand Turk",
       "label": "Eastern Time - Grand Turk",
       "gmtOffset": -300,
@@ -450,6 +566,7 @@
     },
     {
       "zoneName": "America/Guayaquil",
+      "group": [],
       "rawLabel": "(GMT-05:00) Ecuador Time",
       "label": "Ecuador Time",
       "gmtOffset": -300,
@@ -457,6 +574,9 @@
     },
     {
       "zoneName": "America/Havana",
+      "group": [
+        "Cuba"
+      ],
       "rawLabel": "(GMT-05:00) Cuba Time",
       "label": "Cuba Time",
       "gmtOffset": -300,
@@ -464,6 +584,11 @@
     },
     {
       "zoneName": "America/Indiana/Indianapolis",
+      "group": [
+        "America/Fort_Wayne",
+        "America/Indianapolis",
+        "US/East-Indiana"
+      ],
       "rawLabel": "(GMT-05:00) Eastern Time - Indianapolis",
       "label": "Eastern Time - Indianapolis",
       "gmtOffset": -300,
@@ -471,6 +596,7 @@
     },
     {
       "zoneName": "America/Indiana/Marengo",
+      "group": [],
       "rawLabel": "(GMT-05:00) Eastern Time - Marengo, Indiana",
       "label": "Eastern Time - Marengo, Indiana",
       "gmtOffset": -300,
@@ -478,6 +604,7 @@
     },
     {
       "zoneName": "America/Indiana/Petersburg",
+      "group": [],
       "rawLabel": "(GMT-05:00) Eastern Time - Petersburg, Indiana",
       "label": "Eastern Time - Petersburg, Indiana",
       "gmtOffset": -300,
@@ -485,6 +612,7 @@
     },
     {
       "zoneName": "America/Indiana/Vevay",
+      "group": [],
       "rawLabel": "(GMT-05:00) Eastern Time - Vevay, Indiana",
       "label": "Eastern Time - Vevay, Indiana",
       "gmtOffset": -300,
@@ -492,6 +620,7 @@
     },
     {
       "zoneName": "America/Indiana/Vincennes",
+      "group": [],
       "rawLabel": "(GMT-05:00) Eastern Time - Vincennes, Indiana",
       "label": "Eastern Time - Vincennes, Indiana",
       "gmtOffset": -300,
@@ -499,6 +628,7 @@
     },
     {
       "zoneName": "America/Indiana/Winamac",
+      "group": [],
       "rawLabel": "(GMT-05:00) Eastern Time - Winamac, Indiana",
       "label": "Eastern Time - Winamac, Indiana",
       "gmtOffset": -300,
@@ -506,6 +636,7 @@
     },
     {
       "zoneName": "America/Iqaluit",
+      "group": [],
       "rawLabel": "(GMT-05:00) Eastern Time - Iqaluit",
       "label": "Eastern Time - Iqaluit",
       "gmtOffset": -300,
@@ -513,6 +644,9 @@
     },
     {
       "zoneName": "America/Jamaica",
+      "group": [
+        "Jamaica"
+      ],
       "rawLabel": "(GMT-05:00) Eastern Standard Time - Jamaica",
       "label": "Eastern Standard Time - Jamaica",
       "gmtOffset": -300,
@@ -520,6 +654,9 @@
     },
     {
       "zoneName": "America/Kentucky/Louisville",
+      "group": [
+        "America/Louisville"
+      ],
       "rawLabel": "(GMT-05:00) Eastern Time - Louisville",
       "label": "Eastern Time - Louisville",
       "gmtOffset": -300,
@@ -527,6 +664,7 @@
     },
     {
       "zoneName": "America/Kentucky/Monticello",
+      "group": [],
       "rawLabel": "(GMT-05:00) Eastern Time - Monticello, Kentucky",
       "label": "Eastern Time - Monticello, Kentucky",
       "gmtOffset": -300,
@@ -534,6 +672,7 @@
     },
     {
       "zoneName": "America/Lima",
+      "group": [],
       "rawLabel": "(GMT-05:00) Peru Standard Time",
       "label": "Peru Standard Time",
       "gmtOffset": -300,
@@ -541,6 +680,9 @@
     },
     {
       "zoneName": "America/New_York",
+      "group": [
+        "US/Eastern"
+      ],
       "rawLabel": "(GMT-05:00) Eastern Time - New York",
       "label": "Eastern Time - New York",
       "gmtOffset": -300,
@@ -548,6 +690,7 @@
     },
     {
       "zoneName": "America/Nipigon",
+      "group": [],
       "rawLabel": "(GMT-05:00) Eastern Time - Toronto",
       "label": "Eastern Time - Toronto",
       "gmtOffset": -300,
@@ -555,6 +698,11 @@
     },
     {
       "zoneName": "America/Panama",
+      "group": [
+        "America/Atikokan",
+        "America/Cayman",
+        "America/Coral_Harbour"
+      ],
       "rawLabel": "(GMT-05:00) Eastern Standard Time - Panama",
       "label": "Eastern Standard Time - Panama",
       "gmtOffset": -300,
@@ -562,6 +710,7 @@
     },
     {
       "zoneName": "America/Pangnirtung",
+      "group": [],
       "rawLabel": "(GMT-05:00) Eastern Time - Iqaluit",
       "label": "Eastern Time - Iqaluit",
       "gmtOffset": -300,
@@ -569,6 +718,7 @@
     },
     {
       "zoneName": "America/Port-au-Prince",
+      "group": [],
       "rawLabel": "(GMT-05:00) Eastern Time - Port-au-Prince",
       "label": "Eastern Time - Port-au-Prince",
       "gmtOffset": -300,
@@ -576,6 +726,10 @@
     },
     {
       "zoneName": "America/Rio_Branco",
+      "group": [
+        "America/Porto_Acre",
+        "Brazil/Acre"
+      ],
       "rawLabel": "(GMT-05:00) Acre Standard Time - Rio Branco",
       "label": "Acre Standard Time - Rio Branco",
       "gmtOffset": -300,
@@ -583,6 +737,7 @@
     },
     {
       "zoneName": "America/Thunder_Bay",
+      "group": [],
       "rawLabel": "(GMT-05:00) Eastern Time - Toronto",
       "label": "Eastern Time - Toronto",
       "gmtOffset": -300,
@@ -590,6 +745,11 @@
     },
     {
       "zoneName": "America/Toronto",
+      "group": [
+        "America/Montreal",
+        "America/Nassau",
+        "Canada/Eastern"
+      ],
       "rawLabel": "(GMT-05:00) Eastern Time - Toronto",
       "label": "Eastern Time - Toronto",
       "gmtOffset": -300,
@@ -597,6 +757,9 @@
     },
     {
       "zoneName": "Pacific/Easter",
+      "group": [
+        "Chile/EasterIsland"
+      ],
       "rawLabel": "(GMT-05:00) Easter Island Time",
       "label": "Easter Island Time",
       "gmtOffset": -360,
@@ -604,6 +767,7 @@
     },
     {
       "zoneName": "America/Barbados",
+      "group": [],
       "rawLabel": "(GMT-04:00) Atlantic Standard Time - Barbados",
       "label": "Atlantic Standard Time - Barbados",
       "gmtOffset": -240,
@@ -611,6 +775,7 @@
     },
     {
       "zoneName": "America/Boa_Vista",
+      "group": [],
       "rawLabel": "(GMT-04:00) Amazon Standard Time - Boa Vista",
       "label": "Amazon Standard Time - Boa Vista",
       "gmtOffset": -240,
@@ -618,6 +783,7 @@
     },
     {
       "zoneName": "America/Campo_Grande",
+      "group": [],
       "rawLabel": "(GMT-04:00) Amazon Standard Time - Campo Grande",
       "label": "Amazon Standard Time - Campo Grande",
       "gmtOffset": -240,
@@ -625,6 +791,7 @@
     },
     {
       "zoneName": "America/Caracas",
+      "group": [],
       "rawLabel": "(GMT-04:00) Venezuela Time",
       "label": "Venezuela Time",
       "gmtOffset": -240,
@@ -632,6 +799,7 @@
     },
     {
       "zoneName": "America/Cuiaba",
+      "group": [],
       "rawLabel": "(GMT-04:00) Amazon Standard Time - Cuiaba",
       "label": "Amazon Standard Time - Cuiaba",
       "gmtOffset": -240,
@@ -639,6 +807,7 @@
     },
     {
       "zoneName": "America/Glace_Bay",
+      "group": [],
       "rawLabel": "(GMT-04:00) Atlantic Time - Glace Bay",
       "label": "Atlantic Time - Glace Bay",
       "gmtOffset": -240,
@@ -646,6 +815,7 @@
     },
     {
       "zoneName": "America/Goose_Bay",
+      "group": [],
       "rawLabel": "(GMT-04:00) Atlantic Time - Goose Bay",
       "label": "Atlantic Time - Goose Bay",
       "gmtOffset": -240,
@@ -653,6 +823,7 @@
     },
     {
       "zoneName": "America/Guyana",
+      "group": [],
       "rawLabel": "(GMT-04:00) Guyana Time",
       "label": "Guyana Time",
       "gmtOffset": -240,
@@ -660,6 +831,9 @@
     },
     {
       "zoneName": "America/Halifax",
+      "group": [
+        "Canada/Atlantic"
+      ],
       "rawLabel": "(GMT-04:00) Atlantic Time - Halifax",
       "label": "Atlantic Time - Halifax",
       "gmtOffset": -240,
@@ -667,6 +841,7 @@
     },
     {
       "zoneName": "America/La_Paz",
+      "group": [],
       "rawLabel": "(GMT-04:00) Bolivia Time",
       "label": "Bolivia Time",
       "gmtOffset": -240,
@@ -674,6 +849,9 @@
     },
     {
       "zoneName": "America/Manaus",
+      "group": [
+        "Brazil/West"
+      ],
       "rawLabel": "(GMT-04:00) Amazon Standard Time - Manaus",
       "label": "Amazon Standard Time - Manaus",
       "gmtOffset": -240,
@@ -681,6 +859,7 @@
     },
     {
       "zoneName": "America/Martinique",
+      "group": [],
       "rawLabel": "(GMT-04:00) Atlantic Standard Time - Martinique",
       "label": "Atlantic Standard Time - Martinique",
       "gmtOffset": -240,
@@ -688,6 +867,7 @@
     },
     {
       "zoneName": "America/Moncton",
+      "group": [],
       "rawLabel": "(GMT-04:00) Atlantic Time - Moncton",
       "label": "Atlantic Time - Moncton",
       "gmtOffset": -240,
@@ -695,6 +875,7 @@
     },
     {
       "zoneName": "America/Porto_Velho",
+      "group": [],
       "rawLabel": "(GMT-04:00) Amazon Standard Time - Porto Velho",
       "label": "Amazon Standard Time - Porto Velho",
       "gmtOffset": -240,
@@ -702,6 +883,29 @@
     },
     {
       "zoneName": "America/Puerto_Rico",
+      "group": [
+        "America/Anguilla",
+        "America/Antigua",
+        "America/Aruba",
+        "America/Blanc-Sablon",
+        "America/Curacao",
+        "America/Dominica",
+        "America/Grenada",
+        "America/Guadeloupe",
+        "America/Kralendijk",
+        "America/Lower_Princes",
+        "America/Marigot",
+        "America/Montserrat",
+        "America/Port_of_Spain",
+        "America/St_Barthelemy",
+        "America/St_Kitts",
+        "America/St_Lucia",
+        "America/St_Thomas",
+        "America/St_Vincent",
+        "America/Tortola",
+        "America/Virgin",
+        "PRT"
+      ],
       "rawLabel": "(GMT-04:00) Atlantic Standard Time - Puerto Rico",
       "label": "Atlantic Standard Time - Puerto Rico",
       "gmtOffset": -240,
@@ -709,6 +913,7 @@
     },
     {
       "zoneName": "America/Santo_Domingo",
+      "group": [],
       "rawLabel": "(GMT-04:00) Atlantic Standard Time - Santo Domingo",
       "label": "Atlantic Standard Time - Santo Domingo",
       "gmtOffset": -240,
@@ -716,6 +921,7 @@
     },
     {
       "zoneName": "America/Thule",
+      "group": [],
       "rawLabel": "(GMT-04:00) Atlantic Time - Thule",
       "label": "Atlantic Time - Thule",
       "gmtOffset": -240,
@@ -723,6 +929,7 @@
     },
     {
       "zoneName": "Atlantic/Bermuda",
+      "group": [],
       "rawLabel": "(GMT-04:00) Atlantic Time - Bermuda",
       "label": "Atlantic Time - Bermuda",
       "gmtOffset": -240,
@@ -730,6 +937,10 @@
     },
     {
       "zoneName": "America/St_Johns",
+      "group": [
+        "CNT",
+        "Canada/Newfoundland"
+      ],
       "rawLabel": "(GMT-03:30) Newfoundland Time",
       "label": "Newfoundland Time",
       "gmtOffset": -210,
@@ -737,6 +948,7 @@
     },
     {
       "zoneName": "America/Araguaina",
+      "group": [],
       "rawLabel": "(GMT-03:00) Brasilia Standard Time - Araguaina",
       "label": "Brasilia Standard Time - Araguaina",
       "gmtOffset": -180,
@@ -744,6 +956,9 @@
     },
     {
       "zoneName": "America/Argentina/Buenos_Aires",
+      "group": [
+        "America/Buenos_Aires"
+      ],
       "rawLabel": "(GMT-03:00) Argentina Standard Time - Buenos Aires",
       "label": "Argentina Standard Time - Buenos Aires",
       "gmtOffset": -180,
@@ -751,6 +966,10 @@
     },
     {
       "zoneName": "America/Argentina/Catamarca",
+      "group": [
+        "America/Argentina/ComodRivadavia",
+        "America/Catamarca"
+      ],
       "rawLabel": "(GMT-03:00) Argentina Standard Time - Catamarca",
       "label": "Argentina Standard Time - Catamarca",
       "gmtOffset": -180,
@@ -758,6 +977,10 @@
     },
     {
       "zoneName": "America/Argentina/Cordoba",
+      "group": [
+        "America/Cordoba",
+        "America/Rosario"
+      ],
       "rawLabel": "(GMT-03:00) Argentina Standard Time - Cordoba",
       "label": "Argentina Standard Time - Cordoba",
       "gmtOffset": -180,
@@ -765,6 +988,9 @@
     },
     {
       "zoneName": "America/Argentina/Jujuy",
+      "group": [
+        "America/Jujuy"
+      ],
       "rawLabel": "(GMT-03:00) Argentina Standard Time - Jujuy",
       "label": "Argentina Standard Time - Jujuy",
       "gmtOffset": -180,
@@ -772,6 +998,7 @@
     },
     {
       "zoneName": "America/Argentina/La_Rioja",
+      "group": [],
       "rawLabel": "(GMT-03:00) Argentina Standard Time - La Rioja",
       "label": "Argentina Standard Time - La Rioja",
       "gmtOffset": -180,
@@ -779,6 +1006,9 @@
     },
     {
       "zoneName": "America/Argentina/Mendoza",
+      "group": [
+        "America/Mendoza"
+      ],
       "rawLabel": "(GMT-03:00) Argentina Standard Time - Mendoza",
       "label": "Argentina Standard Time - Mendoza",
       "gmtOffset": -180,
@@ -786,6 +1016,7 @@
     },
     {
       "zoneName": "America/Argentina/Rio_Gallegos",
+      "group": [],
       "rawLabel": "(GMT-03:00) Argentina Standard Time - Rio Gallegos",
       "label": "Argentina Standard Time - Rio Gallegos",
       "gmtOffset": -180,
@@ -793,6 +1024,7 @@
     },
     {
       "zoneName": "America/Argentina/Salta",
+      "group": [],
       "rawLabel": "(GMT-03:00) Argentina Standard Time - Salta",
       "label": "Argentina Standard Time - Salta",
       "gmtOffset": -180,
@@ -800,6 +1032,7 @@
     },
     {
       "zoneName": "America/Argentina/San_Juan",
+      "group": [],
       "rawLabel": "(GMT-03:00) Argentina Standard Time - San Juan",
       "label": "Argentina Standard Time - San Juan",
       "gmtOffset": -180,
@@ -807,6 +1040,7 @@
     },
     {
       "zoneName": "America/Argentina/San_Luis",
+      "group": [],
       "rawLabel": "(GMT-03:00) Argentina Standard Time - San Luis",
       "label": "Argentina Standard Time - San Luis",
       "gmtOffset": -180,
@@ -814,6 +1048,7 @@
     },
     {
       "zoneName": "America/Argentina/Tucuman",
+      "group": [],
       "rawLabel": "(GMT-03:00) Argentina Standard Time - Tucuman",
       "label": "Argentina Standard Time - Tucuman",
       "gmtOffset": -180,
@@ -821,6 +1056,7 @@
     },
     {
       "zoneName": "America/Argentina/Ushuaia",
+      "group": [],
       "rawLabel": "(GMT-03:00) Argentina Standard Time - Ushuaia",
       "label": "Argentina Standard Time - Ushuaia",
       "gmtOffset": -180,
@@ -828,6 +1064,7 @@
     },
     {
       "zoneName": "America/Asuncion",
+      "group": [],
       "rawLabel": "(GMT-03:00) Paraguay Time",
       "label": "Paraguay Time",
       "gmtOffset": -240,
@@ -835,6 +1072,7 @@
     },
     {
       "zoneName": "America/Bahia",
+      "group": [],
       "rawLabel": "(GMT-03:00) Brasilia Standard Time - Bahia",
       "label": "Brasilia Standard Time - Bahia",
       "gmtOffset": -180,
@@ -842,6 +1080,7 @@
     },
     {
       "zoneName": "America/Belem",
+      "group": [],
       "rawLabel": "(GMT-03:00) Brasilia Standard Time - Belem",
       "label": "Brasilia Standard Time - Belem",
       "gmtOffset": -180,
@@ -849,6 +1088,7 @@
     },
     {
       "zoneName": "America/Cayenne",
+      "group": [],
       "rawLabel": "(GMT-03:00) French Guiana Time",
       "label": "French Guiana Time",
       "gmtOffset": -180,
@@ -856,6 +1096,7 @@
     },
     {
       "zoneName": "America/Fortaleza",
+      "group": [],
       "rawLabel": "(GMT-03:00) Brasilia Standard Time - Fortaleza",
       "label": "Brasilia Standard Time - Fortaleza",
       "gmtOffset": -180,
@@ -863,6 +1104,7 @@
     },
     {
       "zoneName": "America/Maceio",
+      "group": [],
       "rawLabel": "(GMT-03:00) Brasilia Standard Time - Maceio",
       "label": "Brasilia Standard Time - Maceio",
       "gmtOffset": -180,
@@ -870,6 +1112,7 @@
     },
     {
       "zoneName": "America/Miquelon",
+      "group": [],
       "rawLabel": "(GMT-03:00) St. Pierre & Miquelon Time",
       "label": "St. Pierre & Miquelon Time",
       "gmtOffset": -180,
@@ -877,6 +1120,7 @@
     },
     {
       "zoneName": "America/Montevideo",
+      "group": [],
       "rawLabel": "(GMT-03:00) Uruguay Standard Time",
       "label": "Uruguay Standard Time",
       "gmtOffset": -180,
@@ -884,6 +1128,7 @@
     },
     {
       "zoneName": "America/Paramaribo",
+      "group": [],
       "rawLabel": "(GMT-03:00) Suriname Time",
       "label": "Suriname Time",
       "gmtOffset": -180,
@@ -891,6 +1136,7 @@
     },
     {
       "zoneName": "America/Punta_Arenas",
+      "group": [],
       "rawLabel": "(GMT-03:00) Punta Arenas Time",
       "label": "Punta Arenas Time",
       "gmtOffset": -180,
@@ -898,6 +1144,7 @@
     },
     {
       "zoneName": "America/Recife",
+      "group": [],
       "rawLabel": "(GMT-03:00) Brasilia Standard Time - Recife",
       "label": "Brasilia Standard Time - Recife",
       "gmtOffset": -180,
@@ -905,6 +1152,7 @@
     },
     {
       "zoneName": "America/Santarem",
+      "group": [],
       "rawLabel": "(GMT-03:00) Brasilia Standard Time - Santarem",
       "label": "Brasilia Standard Time - Santarem",
       "gmtOffset": -180,
@@ -912,6 +1160,9 @@
     },
     {
       "zoneName": "America/Santiago",
+      "group": [
+        "Chile/Continental"
+      ],
       "rawLabel": "(GMT-03:00) Chile Time",
       "label": "Chile Time",
       "gmtOffset": -240,
@@ -919,6 +1170,10 @@
     },
     {
       "zoneName": "America/Sao_Paulo",
+      "group": [
+        "BET",
+        "Brazil/East"
+      ],
       "rawLabel": "(GMT-03:00) Brasilia Standard Time - Sao Paulo",
       "label": "Brasilia Standard Time - Sao Paulo",
       "gmtOffset": -180,
@@ -926,6 +1181,7 @@
     },
     {
       "zoneName": "Antarctica/Palmer",
+      "group": [],
       "rawLabel": "(GMT-03:00) Palmer Time",
       "label": "Palmer Time",
       "gmtOffset": -180,
@@ -933,6 +1189,7 @@
     },
     {
       "zoneName": "Antarctica/Rothera",
+      "group": [],
       "rawLabel": "(GMT-03:00) Rothera Time",
       "label": "Rothera Time",
       "gmtOffset": -180,
@@ -940,6 +1197,7 @@
     },
     {
       "zoneName": "Atlantic/Stanley",
+      "group": [],
       "rawLabel": "(GMT-03:00) Falkland Islands Standard Time",
       "label": "Falkland Islands Standard Time",
       "gmtOffset": -180,
@@ -947,6 +1205,9 @@
     },
     {
       "zoneName": "America/Noronha",
+      "group": [
+        "Brazil/DeNoronha"
+      ],
       "rawLabel": "(GMT-02:00) Fernando de Noronha Standard Time",
       "label": "Fernando de Noronha Standard Time",
       "gmtOffset": -120,
@@ -954,6 +1215,9 @@
     },
     {
       "zoneName": "America/Nuuk",
+      "group": [
+        "America/Godthab"
+      ],
       "rawLabel": "(GMT-02:00) West Greenland Time",
       "label": "West Greenland Time",
       "gmtOffset": -120,
@@ -961,6 +1225,7 @@
     },
     {
       "zoneName": "Atlantic/South_Georgia",
+      "group": [],
       "rawLabel": "(GMT-02:00) South Georgia Time",
       "label": "South Georgia Time",
       "gmtOffset": -120,
@@ -968,6 +1233,7 @@
     },
     {
       "zoneName": "America/Scoresbysund",
+      "group": [],
       "rawLabel": "(GMT-01:00) East Greenland Time",
       "label": "East Greenland Time",
       "gmtOffset": -60,
@@ -975,6 +1241,7 @@
     },
     {
       "zoneName": "Atlantic/Azores",
+      "group": [],
       "rawLabel": "(GMT-01:00) Azores Time",
       "label": "Azores Time",
       "gmtOffset": -60,
@@ -982,6 +1249,7 @@
     },
     {
       "zoneName": "Atlantic/Cape_Verde",
+      "group": [],
       "rawLabel": "(GMT-01:00) Cape Verde Standard Time",
       "label": "Cape Verde Standard Time",
       "gmtOffset": -60,
@@ -989,6 +1257,19 @@
     },
     {
       "zoneName": "Africa/Abidjan",
+      "group": [
+        "Africa/Accra",
+        "Africa/Bamako",
+        "Africa/Banjul",
+        "Africa/Conakry",
+        "Africa/Dakar",
+        "Africa/Freetown",
+        "Africa/Lome",
+        "Africa/Nouakchott",
+        "Africa/Ouagadougou",
+        "Africa/Timbuktu",
+        "Atlantic/St_Helena"
+      ],
       "rawLabel": "(GMT+00:00) Greenwich Mean Time - Abidjan",
       "label": "Greenwich Mean Time - Abidjan",
       "gmtOffset": 0,
@@ -996,6 +1277,7 @@
     },
     {
       "zoneName": "Africa/Bissau",
+      "group": [],
       "rawLabel": "(GMT+00:00) Greenwich Mean Time - Bissau",
       "label": "Greenwich Mean Time - Bissau",
       "gmtOffset": 0,
@@ -1003,6 +1285,7 @@
     },
     {
       "zoneName": "Africa/Monrovia",
+      "group": [],
       "rawLabel": "(GMT+00:00) Greenwich Mean Time - Monrovia",
       "label": "Greenwich Mean Time - Monrovia",
       "gmtOffset": 0,
@@ -1010,6 +1293,7 @@
     },
     {
       "zoneName": "Africa/Sao_Tome",
+      "group": [],
       "rawLabel": "(GMT+00:00) Greenwich Mean Time - São Tomé",
       "label": "Greenwich Mean Time - São Tomé",
       "gmtOffset": 0,
@@ -1017,6 +1301,7 @@
     },
     {
       "zoneName": "America/Danmarkshavn",
+      "group": [],
       "rawLabel": "(GMT+00:00) Greenwich Mean Time - Danmarkshavn",
       "label": "Greenwich Mean Time - Danmarkshavn",
       "gmtOffset": 0,
@@ -1024,6 +1309,7 @@
     },
     {
       "zoneName": "Antarctica/Troll",
+      "group": [],
       "rawLabel": "(GMT+00:00) Troll Time",
       "label": "Troll Time",
       "gmtOffset": 0,
@@ -1031,6 +1317,7 @@
     },
     {
       "zoneName": "Atlantic/Canary",
+      "group": [],
       "rawLabel": "(GMT+00:00) Western European Time - Canary",
       "label": "Western European Time - Canary",
       "gmtOffset": 0,
@@ -1038,6 +1325,9 @@
     },
     {
       "zoneName": "Atlantic/Faroe",
+      "group": [
+        "Atlantic/Faeroe"
+      ],
       "rawLabel": "(GMT+00:00) Western European Time - Faroe",
       "label": "Western European Time - Faroe",
       "gmtOffset": 0,
@@ -1045,6 +1335,7 @@
     },
     {
       "zoneName": "Atlantic/Madeira",
+      "group": [],
       "rawLabel": "(GMT+00:00) Western European Time - Madeira",
       "label": "Western European Time - Madeira",
       "gmtOffset": 0,
@@ -1052,6 +1343,9 @@
     },
     {
       "zoneName": "Atlantic/Reykjavik",
+      "group": [
+        "Iceland"
+      ],
       "rawLabel": "(GMT+00:00) Greenwich Mean Time - Reykjavik",
       "label": "Greenwich Mean Time - Reykjavik",
       "gmtOffset": 0,
@@ -1059,6 +1353,17 @@
     },
     {
       "zoneName": "Etc/GMT",
+      "group": [
+        "Etc/GMT+0",
+        "Etc/GMT-0",
+        "Etc/GMT0",
+        "Etc/Greenwich",
+        "GMT",
+        "GMT+0",
+        "GMT-0",
+        "GMT0",
+        "Greenwich"
+      ],
       "rawLabel": "(GMT+00:00) Greenwich Mean Time",
       "label": "Greenwich Mean Time",
       "gmtOffset": 0,
@@ -1066,6 +1371,9 @@
     },
     {
       "zoneName": "Europe/Dublin",
+      "group": [
+        "Eire"
+      ],
       "rawLabel": "(GMT+00:00) Ireland Time",
       "label": "Ireland Time",
       "gmtOffset": 0,
@@ -1073,6 +1381,9 @@
     },
     {
       "zoneName": "Europe/Lisbon",
+      "group": [
+        "Portugal"
+      ],
       "rawLabel": "(GMT+00:00) Western European Time - Lisbon",
       "label": "Western European Time - Lisbon",
       "gmtOffset": 0,
@@ -1080,6 +1391,14 @@
     },
     {
       "zoneName": "Europe/London",
+      "group": [
+        "Europe/Belfast",
+        "Europe/Guernsey",
+        "Europe/Isle_of_Man",
+        "Europe/Jersey",
+        "GB",
+        "GB-Eire"
+      ],
       "rawLabel": "(GMT+00:00) United Kingdom Time",
       "label": "United Kingdom Time",
       "gmtOffset": 0,
@@ -1087,6 +1406,7 @@
     },
     {
       "zoneName": "UTC",
+      "group": [],
       "rawLabel": "(GMT+00:00) Coordinated Universal Time",
       "label": "Coordinated Universal Time",
       "gmtOffset": 0,
@@ -1094,6 +1414,7 @@
     },
     {
       "zoneName": "Africa/Algiers",
+      "group": [],
       "rawLabel": "(GMT+01:00) Central European Standard Time - Algiers",
       "label": "Central European Standard Time - Algiers",
       "gmtOffset": 60,
@@ -1101,6 +1422,7 @@
     },
     {
       "zoneName": "Africa/Casablanca",
+      "group": [],
       "rawLabel": "(GMT+01:00) Morocco Time",
       "label": "Morocco Time",
       "gmtOffset": 0,
@@ -1108,6 +1430,7 @@
     },
     {
       "zoneName": "Africa/Ceuta",
+      "group": [],
       "rawLabel": "(GMT+01:00) Central European Time - Ceuta",
       "label": "Central European Time - Ceuta",
       "gmtOffset": 60,
@@ -1115,6 +1438,7 @@
     },
     {
       "zoneName": "Africa/El_Aaiun",
+      "group": [],
       "rawLabel": "(GMT+01:00) Western Sahara Time",
       "label": "Western Sahara Time",
       "gmtOffset": 0,
@@ -1122,6 +1446,17 @@
     },
     {
       "zoneName": "Africa/Lagos",
+      "group": [
+        "Africa/Bangui",
+        "Africa/Brazzaville",
+        "Africa/Douala",
+        "Africa/Kinshasa",
+        "Africa/Libreville",
+        "Africa/Luanda",
+        "Africa/Malabo",
+        "Africa/Niamey",
+        "Africa/Porto-Novo"
+      ],
       "rawLabel": "(GMT+01:00) West Africa Standard Time - Lagos",
       "label": "West Africa Standard Time - Lagos",
       "gmtOffset": 60,
@@ -1129,6 +1464,7 @@
     },
     {
       "zoneName": "Africa/Ndjamena",
+      "group": [],
       "rawLabel": "(GMT+01:00) West Africa Standard Time - Ndjamena",
       "label": "West Africa Standard Time - Ndjamena",
       "gmtOffset": 60,
@@ -1136,6 +1472,7 @@
     },
     {
       "zoneName": "Africa/Tunis",
+      "group": [],
       "rawLabel": "(GMT+01:00) Central European Standard Time - Tunis",
       "label": "Central European Standard Time - Tunis",
       "gmtOffset": 60,
@@ -1143,6 +1480,7 @@
     },
     {
       "zoneName": "Europe/Amsterdam",
+      "group": [],
       "rawLabel": "(GMT+01:00) Central European Time - Amsterdam",
       "label": "Central European Time - Amsterdam",
       "gmtOffset": 60,
@@ -1150,6 +1488,7 @@
     },
     {
       "zoneName": "Europe/Andorra",
+      "group": [],
       "rawLabel": "(GMT+01:00) Central European Time - Andorra",
       "label": "Central European Time - Andorra",
       "gmtOffset": 60,
@@ -1157,6 +1496,13 @@
     },
     {
       "zoneName": "Europe/Belgrade",
+      "group": [
+        "Europe/Ljubljana",
+        "Europe/Podgorica",
+        "Europe/Sarajevo",
+        "Europe/Skopje",
+        "Europe/Zagreb"
+      ],
       "rawLabel": "(GMT+01:00) Central European Time - Belgrade",
       "label": "Central European Time - Belgrade",
       "gmtOffset": 60,
@@ -1164,6 +1510,7 @@
     },
     {
       "zoneName": "Europe/Berlin",
+      "group": [],
       "rawLabel": "(GMT+01:00) Central European Time - Berlin",
       "label": "Central European Time - Berlin",
       "gmtOffset": 60,
@@ -1171,6 +1518,7 @@
     },
     {
       "zoneName": "Europe/Brussels",
+      "group": [],
       "rawLabel": "(GMT+01:00) Central European Time - Brussels",
       "label": "Central European Time - Brussels",
       "gmtOffset": 60,
@@ -1178,6 +1526,7 @@
     },
     {
       "zoneName": "Europe/Budapest",
+      "group": [],
       "rawLabel": "(GMT+01:00) Central European Time - Budapest",
       "label": "Central European Time - Budapest",
       "gmtOffset": 60,
@@ -1185,6 +1534,7 @@
     },
     {
       "zoneName": "Europe/Copenhagen",
+      "group": [],
       "rawLabel": "(GMT+01:00) Central European Time - Copenhagen",
       "label": "Central European Time - Copenhagen",
       "gmtOffset": 60,
@@ -1192,6 +1542,7 @@
     },
     {
       "zoneName": "Europe/Gibraltar",
+      "group": [],
       "rawLabel": "(GMT+01:00) Central European Time - Gibraltar",
       "label": "Central European Time - Gibraltar",
       "gmtOffset": 60,
@@ -1199,6 +1550,7 @@
     },
     {
       "zoneName": "Europe/Luxembourg",
+      "group": [],
       "rawLabel": "(GMT+01:00) Central European Time - Luxembourg",
       "label": "Central European Time - Luxembourg",
       "gmtOffset": 60,
@@ -1206,6 +1558,7 @@
     },
     {
       "zoneName": "Europe/Madrid",
+      "group": [],
       "rawLabel": "(GMT+01:00) Central European Time - Madrid",
       "label": "Central European Time - Madrid",
       "gmtOffset": 60,
@@ -1213,6 +1566,7 @@
     },
     {
       "zoneName": "Europe/Malta",
+      "group": [],
       "rawLabel": "(GMT+01:00) Central European Time - Malta",
       "label": "Central European Time - Malta",
       "gmtOffset": 60,
@@ -1220,6 +1574,7 @@
     },
     {
       "zoneName": "Europe/Monaco",
+      "group": [],
       "rawLabel": "(GMT+01:00) Central European Time - Monaco",
       "label": "Central European Time - Monaco",
       "gmtOffset": 60,
@@ -1227,6 +1582,10 @@
     },
     {
       "zoneName": "Europe/Oslo",
+      "group": [
+        "Arctic/Longyearbyen",
+        "Atlantic/Jan_Mayen"
+      ],
       "rawLabel": "(GMT+01:00) Central European Time - Oslo",
       "label": "Central European Time - Oslo",
       "gmtOffset": 60,
@@ -1234,6 +1593,9 @@
     },
     {
       "zoneName": "Europe/Paris",
+      "group": [
+        "ECT"
+      ],
       "rawLabel": "(GMT+01:00) Central European Time - Paris",
       "label": "Central European Time - Paris",
       "gmtOffset": 60,
@@ -1241,6 +1603,9 @@
     },
     {
       "zoneName": "Europe/Prague",
+      "group": [
+        "Europe/Bratislava"
+      ],
       "rawLabel": "(GMT+01:00) Central European Time - Prague",
       "label": "Central European Time - Prague",
       "gmtOffset": 60,
@@ -1248,6 +1613,10 @@
     },
     {
       "zoneName": "Europe/Rome",
+      "group": [
+        "Europe/San_Marino",
+        "Europe/Vatican"
+      ],
       "rawLabel": "(GMT+01:00) Central European Time - Rome",
       "label": "Central European Time - Rome",
       "gmtOffset": 60,
@@ -1255,6 +1624,7 @@
     },
     {
       "zoneName": "Europe/Stockholm",
+      "group": [],
       "rawLabel": "(GMT+01:00) Central European Time - Stockholm",
       "label": "Central European Time - Stockholm",
       "gmtOffset": 60,
@@ -1262,6 +1632,7 @@
     },
     {
       "zoneName": "Europe/Tirane",
+      "group": [],
       "rawLabel": "(GMT+01:00) Central European Time - Tirane",
       "label": "Central European Time - Tirane",
       "gmtOffset": 60,
@@ -1269,6 +1640,7 @@
     },
     {
       "zoneName": "Europe/Vienna",
+      "group": [],
       "rawLabel": "(GMT+01:00) Central European Time - Vienna",
       "label": "Central European Time - Vienna",
       "gmtOffset": 60,
@@ -1276,6 +1648,9 @@
     },
     {
       "zoneName": "Europe/Warsaw",
+      "group": [
+        "Poland"
+      ],
       "rawLabel": "(GMT+01:00) Central European Time - Warsaw",
       "label": "Central European Time - Warsaw",
       "gmtOffset": 60,
@@ -1283,6 +1658,10 @@
     },
     {
       "zoneName": "Europe/Zurich",
+      "group": [
+        "Europe/Busingen",
+        "Europe/Vaduz"
+      ],
       "rawLabel": "(GMT+01:00) Central European Time - Zurich",
       "label": "Central European Time - Zurich",
       "gmtOffset": 60,
@@ -1290,6 +1669,10 @@
     },
     {
       "zoneName": "Africa/Cairo",
+      "group": [
+        "ART",
+        "Egypt"
+      ],
       "rawLabel": "(GMT+02:00) Eastern European Time - Cairo",
       "label": "Eastern European Time - Cairo",
       "gmtOffset": 120,
@@ -1297,6 +1680,10 @@
     },
     {
       "zoneName": "Africa/Johannesburg",
+      "group": [
+        "Africa/Maseru",
+        "Africa/Mbabane"
+      ],
       "rawLabel": "(GMT+02:00) South Africa Standard Time",
       "label": "South Africa Standard Time",
       "gmtOffset": 120,
@@ -1304,6 +1691,7 @@
     },
     {
       "zoneName": "Africa/Juba",
+      "group": [],
       "rawLabel": "(GMT+02:00) Central Africa Time - Juba",
       "label": "Central Africa Time - Juba",
       "gmtOffset": 120,
@@ -1311,6 +1699,7 @@
     },
     {
       "zoneName": "Africa/Khartoum",
+      "group": [],
       "rawLabel": "(GMT+02:00) Central Africa Time - Khartoum",
       "label": "Central Africa Time - Khartoum",
       "gmtOffset": 120,
@@ -1318,6 +1707,16 @@
     },
     {
       "zoneName": "Africa/Maputo",
+      "group": [
+        "Africa/Blantyre",
+        "Africa/Bujumbura",
+        "Africa/Gaborone",
+        "Africa/Harare",
+        "Africa/Kigali",
+        "Africa/Lubumbashi",
+        "Africa/Lusaka",
+        "CAT"
+      ],
       "rawLabel": "(GMT+02:00) Central Africa Time - Maputo",
       "label": "Central Africa Time - Maputo",
       "gmtOffset": 120,
@@ -1325,6 +1724,9 @@
     },
     {
       "zoneName": "Africa/Tripoli",
+      "group": [
+        "Libya"
+      ],
       "rawLabel": "(GMT+02:00) Eastern European Standard Time - Tripoli",
       "label": "Eastern European Standard Time - Tripoli",
       "gmtOffset": 120,
@@ -1332,6 +1734,7 @@
     },
     {
       "zoneName": "Africa/Windhoek",
+      "group": [],
       "rawLabel": "(GMT+02:00) Central Africa Time - Windhoek",
       "label": "Central Africa Time - Windhoek",
       "gmtOffset": 60,
@@ -1339,6 +1742,7 @@
     },
     {
       "zoneName": "Asia/Beirut",
+      "group": [],
       "rawLabel": "(GMT+02:00) Eastern European Time - Beirut",
       "label": "Eastern European Time - Beirut",
       "gmtOffset": 120,
@@ -1346,6 +1750,7 @@
     },
     {
       "zoneName": "Asia/Famagusta",
+      "group": [],
       "rawLabel": "(GMT+02:00) Famagusta Time",
       "label": "Famagusta Time",
       "gmtOffset": 120,
@@ -1353,6 +1758,7 @@
     },
     {
       "zoneName": "Asia/Gaza",
+      "group": [],
       "rawLabel": "(GMT+02:00) Eastern European Time - Gaza",
       "label": "Eastern European Time - Gaza",
       "gmtOffset": 120,
@@ -1360,6 +1766,7 @@
     },
     {
       "zoneName": "Asia/Hebron",
+      "group": [],
       "rawLabel": "(GMT+02:00) Eastern European Time - Hebron",
       "label": "Eastern European Time - Hebron",
       "gmtOffset": 120,
@@ -1367,6 +1774,10 @@
     },
     {
       "zoneName": "Asia/Jerusalem",
+      "group": [
+        "Asia/Tel_Aviv",
+        "Israel"
+      ],
       "rawLabel": "(GMT+02:00) Israel Time",
       "label": "Israel Time",
       "gmtOffset": 120,
@@ -1374,6 +1785,9 @@
     },
     {
       "zoneName": "Asia/Nicosia",
+      "group": [
+        "Europe/Nicosia"
+      ],
       "rawLabel": "(GMT+02:00) Eastern European Time - Nicosia",
       "label": "Eastern European Time - Nicosia",
       "gmtOffset": 120,
@@ -1381,6 +1795,7 @@
     },
     {
       "zoneName": "Europe/Athens",
+      "group": [],
       "rawLabel": "(GMT+02:00) Eastern European Time - Athens",
       "label": "Eastern European Time - Athens",
       "gmtOffset": 120,
@@ -1388,6 +1803,7 @@
     },
     {
       "zoneName": "Europe/Bucharest",
+      "group": [],
       "rawLabel": "(GMT+02:00) Eastern European Time - Bucharest",
       "label": "Eastern European Time - Bucharest",
       "gmtOffset": 120,
@@ -1395,6 +1811,9 @@
     },
     {
       "zoneName": "Europe/Chisinau",
+      "group": [
+        "Europe/Tiraspol"
+      ],
       "rawLabel": "(GMT+02:00) Eastern European Time - Chisinau",
       "label": "Eastern European Time - Chisinau",
       "gmtOffset": 120,
@@ -1402,6 +1821,9 @@
     },
     {
       "zoneName": "Europe/Helsinki",
+      "group": [
+        "Europe/Mariehamn"
+      ],
       "rawLabel": "(GMT+02:00) Eastern European Time - Helsinki",
       "label": "Eastern European Time - Helsinki",
       "gmtOffset": 120,
@@ -1409,6 +1831,7 @@
     },
     {
       "zoneName": "Europe/Kaliningrad",
+      "group": [],
       "rawLabel": "(GMT+02:00) Eastern European Standard Time - Kaliningrad",
       "label": "Eastern European Standard Time - Kaliningrad",
       "gmtOffset": 120,
@@ -1416,6 +1839,9 @@
     },
     {
       "zoneName": "Europe/Kiev",
+      "group": [
+        "Europe/Kyiv"
+      ],
       "rawLabel": "(GMT+02:00) Eastern European Time - Kyiv",
       "label": "Eastern European Time - Kyiv",
       "gmtOffset": 120,
@@ -1423,6 +1849,7 @@
     },
     {
       "zoneName": "Europe/Riga",
+      "group": [],
       "rawLabel": "(GMT+02:00) Eastern European Time - Riga",
       "label": "Eastern European Time - Riga",
       "gmtOffset": 120,
@@ -1430,6 +1857,7 @@
     },
     {
       "zoneName": "Europe/Sofia",
+      "group": [],
       "rawLabel": "(GMT+02:00) Eastern European Time - Sofia",
       "label": "Eastern European Time - Sofia",
       "gmtOffset": 120,
@@ -1437,6 +1865,7 @@
     },
     {
       "zoneName": "Europe/Tallinn",
+      "group": [],
       "rawLabel": "(GMT+02:00) Eastern European Time - Tallinn",
       "label": "Eastern European Time - Tallinn",
       "gmtOffset": 120,
@@ -1444,6 +1873,7 @@
     },
     {
       "zoneName": "Europe/Uzhgorod",
+      "group": [],
       "rawLabel": "(GMT+02:00) Eastern European Time - Kyiv",
       "label": "Eastern European Time - Kyiv",
       "gmtOffset": 120,
@@ -1451,6 +1881,7 @@
     },
     {
       "zoneName": "Europe/Vilnius",
+      "group": [],
       "rawLabel": "(GMT+02:00) Eastern European Time - Vilnius",
       "label": "Eastern European Time - Vilnius",
       "gmtOffset": 120,
@@ -1458,6 +1889,7 @@
     },
     {
       "zoneName": "Europe/Zaporozhye",
+      "group": [],
       "rawLabel": "(GMT+02:00) Eastern European Time - Kyiv",
       "label": "Eastern European Time - Kyiv",
       "gmtOffset": 120,
@@ -1465,6 +1897,19 @@
     },
     {
       "zoneName": "Africa/Nairobi",
+      "group": [
+        "Africa/Addis_Ababa",
+        "Africa/Asmara",
+        "Africa/Asmera",
+        "Africa/Dar_es_Salaam",
+        "Africa/Djibouti",
+        "Africa/Kampala",
+        "Africa/Mogadishu",
+        "EAT",
+        "Indian/Antananarivo",
+        "Indian/Comoro",
+        "Indian/Mayotte"
+      ],
       "rawLabel": "(GMT+03:00) East Africa Time",
       "label": "East Africa Time",
       "gmtOffset": 180,
@@ -1472,6 +1917,7 @@
     },
     {
       "zoneName": "Asia/Amman",
+      "group": [],
       "rawLabel": "(GMT+03:00) Jordan Time",
       "label": "Jordan Time",
       "gmtOffset": 180,
@@ -1479,6 +1925,7 @@
     },
     {
       "zoneName": "Asia/Baghdad",
+      "group": [],
       "rawLabel": "(GMT+03:00) Arabian Standard Time - Baghdad",
       "label": "Arabian Standard Time - Baghdad",
       "gmtOffset": 180,
@@ -1486,6 +1933,7 @@
     },
     {
       "zoneName": "Asia/Damascus",
+      "group": [],
       "rawLabel": "(GMT+03:00) Syria Time",
       "label": "Syria Time",
       "gmtOffset": 180,
@@ -1493,6 +1941,9 @@
     },
     {
       "zoneName": "Asia/Qatar",
+      "group": [
+        "Asia/Bahrain"
+      ],
       "rawLabel": "(GMT+03:00) Arabian Standard Time - Qatar",
       "label": "Arabian Standard Time - Qatar",
       "gmtOffset": 180,
@@ -1500,6 +1951,11 @@
     },
     {
       "zoneName": "Asia/Riyadh",
+      "group": [
+        "Antarctica/Syowa",
+        "Asia/Aden",
+        "Asia/Kuwait"
+      ],
       "rawLabel": "(GMT+03:00) Arabian Standard Time - Riyadh",
       "label": "Arabian Standard Time - Riyadh",
       "gmtOffset": 180,
@@ -1507,6 +1963,10 @@
     },
     {
       "zoneName": "Europe/Istanbul",
+      "group": [
+        "Asia/Istanbul",
+        "Turkey"
+      ],
       "rawLabel": "(GMT+03:00) Türkiye Time",
       "label": "Türkiye Time",
       "gmtOffset": 180,
@@ -1514,6 +1974,7 @@
     },
     {
       "zoneName": "Europe/Kirov",
+      "group": [],
       "rawLabel": "(GMT+03:00) Kirov Time",
       "label": "Kirov Time",
       "gmtOffset": 180,
@@ -1521,6 +1982,7 @@
     },
     {
       "zoneName": "Europe/Minsk",
+      "group": [],
       "rawLabel": "(GMT+03:00) Moscow Standard Time - Minsk",
       "label": "Moscow Standard Time - Minsk",
       "gmtOffset": 180,
@@ -1528,6 +1990,9 @@
     },
     {
       "zoneName": "Europe/Moscow",
+      "group": [
+        "W-SU"
+      ],
       "rawLabel": "(GMT+03:00) Moscow Standard Time - Moscow",
       "label": "Moscow Standard Time - Moscow",
       "gmtOffset": 180,
@@ -1535,6 +2000,7 @@
     },
     {
       "zoneName": "Europe/Simferopol",
+      "group": [],
       "rawLabel": "(GMT+03:00) Moscow Standard Time - Simferopol",
       "label": "Moscow Standard Time - Simferopol",
       "gmtOffset": 180,
@@ -1542,6 +2008,7 @@
     },
     {
       "zoneName": "Europe/Volgograd",
+      "group": [],
       "rawLabel": "(GMT+03:00) Volgograd Standard Time",
       "label": "Volgograd Standard Time",
       "gmtOffset": 180,
@@ -1549,6 +2016,9 @@
     },
     {
       "zoneName": "Asia/Tehran",
+      "group": [
+        "Iran"
+      ],
       "rawLabel": "(GMT+03:30) Iran Standard Time",
       "label": "Iran Standard Time",
       "gmtOffset": 210,
@@ -1556,6 +2026,7 @@
     },
     {
       "zoneName": "Asia/Baku",
+      "group": [],
       "rawLabel": "(GMT+04:00) Azerbaijan Standard Time",
       "label": "Azerbaijan Standard Time",
       "gmtOffset": 240,
@@ -1563,6 +2034,9 @@
     },
     {
       "zoneName": "Asia/Dubai",
+      "group": [
+        "Asia/Muscat"
+      ],
       "rawLabel": "(GMT+04:00) Gulf Standard Time",
       "label": "Gulf Standard Time",
       "gmtOffset": 240,
@@ -1570,6 +2044,7 @@
     },
     {
       "zoneName": "Asia/Tbilisi",
+      "group": [],
       "rawLabel": "(GMT+04:00) Georgia Standard Time",
       "label": "Georgia Standard Time",
       "gmtOffset": 240,
@@ -1577,6 +2052,9 @@
     },
     {
       "zoneName": "Asia/Yerevan",
+      "group": [
+        "NET"
+      ],
       "rawLabel": "(GMT+04:00) Armenia Standard Time",
       "label": "Armenia Standard Time",
       "gmtOffset": 240,
@@ -1584,6 +2062,7 @@
     },
     {
       "zoneName": "Europe/Astrakhan",
+      "group": [],
       "rawLabel": "(GMT+04:00) Astrakhan Time",
       "label": "Astrakhan Time",
       "gmtOffset": 240,
@@ -1591,6 +2070,7 @@
     },
     {
       "zoneName": "Europe/Samara",
+      "group": [],
       "rawLabel": "(GMT+04:00) Samara Standard Time",
       "label": "Samara Standard Time",
       "gmtOffset": 240,
@@ -1598,6 +2078,7 @@
     },
     {
       "zoneName": "Europe/Saratov",
+      "group": [],
       "rawLabel": "(GMT+04:00) Saratov Time",
       "label": "Saratov Time",
       "gmtOffset": 240,
@@ -1605,6 +2086,7 @@
     },
     {
       "zoneName": "Europe/Ulyanovsk",
+      "group": [],
       "rawLabel": "(GMT+04:00) Ulyanovsk Time",
       "label": "Ulyanovsk Time",
       "gmtOffset": 240,
@@ -1612,6 +2094,7 @@
     },
     {
       "zoneName": "Indian/Mahe",
+      "group": [],
       "rawLabel": "(GMT+04:00) Seychelles Time",
       "label": "Seychelles Time",
       "gmtOffset": 240,
@@ -1619,6 +2102,7 @@
     },
     {
       "zoneName": "Indian/Mauritius",
+      "group": [],
       "rawLabel": "(GMT+04:00) Mauritius Standard Time",
       "label": "Mauritius Standard Time",
       "gmtOffset": 240,
@@ -1626,6 +2110,7 @@
     },
     {
       "zoneName": "Indian/Reunion",
+      "group": [],
       "rawLabel": "(GMT+04:00) Réunion Time",
       "label": "Réunion Time",
       "gmtOffset": 240,
@@ -1633,6 +2118,7 @@
     },
     {
       "zoneName": "Asia/Kabul",
+      "group": [],
       "rawLabel": "(GMT+04:30) Afghanistan Time",
       "label": "Afghanistan Time",
       "gmtOffset": 270,
@@ -1640,6 +2126,7 @@
     },
     {
       "zoneName": "Antarctica/Mawson",
+      "group": [],
       "rawLabel": "(GMT+05:00) Mawson Time",
       "label": "Mawson Time",
       "gmtOffset": 300,
@@ -1647,6 +2134,7 @@
     },
     {
       "zoneName": "Asia/Aqtau",
+      "group": [],
       "rawLabel": "(GMT+05:00) West Kazakhstan Time - Aqtau",
       "label": "West Kazakhstan Time - Aqtau",
       "gmtOffset": 300,
@@ -1654,6 +2142,7 @@
     },
     {
       "zoneName": "Asia/Aqtobe",
+      "group": [],
       "rawLabel": "(GMT+05:00) West Kazakhstan Time - Aqtobe",
       "label": "West Kazakhstan Time - Aqtobe",
       "gmtOffset": 300,
@@ -1661,6 +2150,9 @@
     },
     {
       "zoneName": "Asia/Ashgabat",
+      "group": [
+        "Asia/Ashkhabad"
+      ],
       "rawLabel": "(GMT+05:00) Turkmenistan Standard Time",
       "label": "Turkmenistan Standard Time",
       "gmtOffset": 300,
@@ -1668,6 +2160,7 @@
     },
     {
       "zoneName": "Asia/Atyrau",
+      "group": [],
       "rawLabel": "(GMT+05:00) West Kazakhstan Time - Atyrau",
       "label": "West Kazakhstan Time - Atyrau",
       "gmtOffset": 300,
@@ -1675,6 +2168,7 @@
     },
     {
       "zoneName": "Asia/Dushanbe",
+      "group": [],
       "rawLabel": "(GMT+05:00) Tajikistan Time",
       "label": "Tajikistan Time",
       "gmtOffset": 300,
@@ -1682,6 +2176,9 @@
     },
     {
       "zoneName": "Asia/Karachi",
+      "group": [
+        "PLT"
+      ],
       "rawLabel": "(GMT+05:00) Pakistan Standard Time",
       "label": "Pakistan Standard Time",
       "gmtOffset": 300,
@@ -1689,6 +2186,7 @@
     },
     {
       "zoneName": "Asia/Oral",
+      "group": [],
       "rawLabel": "(GMT+05:00) West Kazakhstan Time - Oral",
       "label": "West Kazakhstan Time - Oral",
       "gmtOffset": 300,
@@ -1696,6 +2194,7 @@
     },
     {
       "zoneName": "Asia/Qyzylorda",
+      "group": [],
       "rawLabel": "(GMT+05:00) West Kazakhstan Time - Qyzylorda",
       "label": "West Kazakhstan Time - Qyzylorda",
       "gmtOffset": 300,
@@ -1703,6 +2202,7 @@
     },
     {
       "zoneName": "Asia/Samarkand",
+      "group": [],
       "rawLabel": "(GMT+05:00) Uzbekistan Standard Time - Samarkand",
       "label": "Uzbekistan Standard Time - Samarkand",
       "gmtOffset": 300,
@@ -1710,6 +2210,7 @@
     },
     {
       "zoneName": "Asia/Tashkent",
+      "group": [],
       "rawLabel": "(GMT+05:00) Uzbekistan Standard Time - Tashkent",
       "label": "Uzbekistan Standard Time - Tashkent",
       "gmtOffset": 300,
@@ -1717,6 +2218,7 @@
     },
     {
       "zoneName": "Asia/Yekaterinburg",
+      "group": [],
       "rawLabel": "(GMT+05:00) Yekaterinburg Standard Time",
       "label": "Yekaterinburg Standard Time",
       "gmtOffset": 300,
@@ -1724,6 +2226,7 @@
     },
     {
       "zoneName": "Indian/Kerguelen",
+      "group": [],
       "rawLabel": "(GMT+05:00) French Southern & Antarctic Time",
       "label": "French Southern & Antarctic Time",
       "gmtOffset": 300,
@@ -1731,6 +2234,7 @@
     },
     {
       "zoneName": "Indian/Maldives",
+      "group": [],
       "rawLabel": "(GMT+05:00) Maldives Time",
       "label": "Maldives Time",
       "gmtOffset": 300,
@@ -1738,6 +2242,7 @@
     },
     {
       "zoneName": "Asia/Colombo",
+      "group": [],
       "rawLabel": "(GMT+05:30) India Standard Time - Colombo",
       "label": "India Standard Time - Colombo",
       "gmtOffset": 330,
@@ -1745,6 +2250,9 @@
     },
     {
       "zoneName": "Asia/Kolkata",
+      "group": [
+        "Asia/Calcutta"
+      ],
       "rawLabel": "(GMT+05:30) India Standard Time - Kolkata",
       "label": "India Standard Time - Kolkata",
       "gmtOffset": 330,
@@ -1752,6 +2260,9 @@
     },
     {
       "zoneName": "Asia/Kathmandu",
+      "group": [
+        "Asia/Katmandu"
+      ],
       "rawLabel": "(GMT+05:45) Nepal Time",
       "label": "Nepal Time",
       "gmtOffset": 345,
@@ -1759,6 +2270,7 @@
     },
     {
       "zoneName": "Antarctica/Vostok",
+      "group": [],
       "rawLabel": "(GMT+06:00) Vostok Time",
       "label": "Vostok Time",
       "gmtOffset": 360,
@@ -1766,6 +2278,7 @@
     },
     {
       "zoneName": "Asia/Almaty",
+      "group": [],
       "rawLabel": "(GMT+06:00) East Kazakhstan Time - Almaty",
       "label": "East Kazakhstan Time - Almaty",
       "gmtOffset": 360,
@@ -1773,6 +2286,7 @@
     },
     {
       "zoneName": "Asia/Bishkek",
+      "group": [],
       "rawLabel": "(GMT+06:00) Kyrgyzstan Time",
       "label": "Kyrgyzstan Time",
       "gmtOffset": 360,
@@ -1780,6 +2294,10 @@
     },
     {
       "zoneName": "Asia/Dhaka",
+      "group": [
+        "Asia/Dacca",
+        "BST"
+      ],
       "rawLabel": "(GMT+06:00) Bangladesh Standard Time",
       "label": "Bangladesh Standard Time",
       "gmtOffset": 360,
@@ -1787,6 +2305,7 @@
     },
     {
       "zoneName": "Asia/Omsk",
+      "group": [],
       "rawLabel": "(GMT+06:00) Omsk Standard Time",
       "label": "Omsk Standard Time",
       "gmtOffset": 360,
@@ -1794,6 +2313,7 @@
     },
     {
       "zoneName": "Asia/Qostanay",
+      "group": [],
       "rawLabel": "(GMT+06:00) East Kazakhstan Time - Kostanay",
       "label": "East Kazakhstan Time - Kostanay",
       "gmtOffset": 360,
@@ -1801,6 +2321,9 @@
     },
     {
       "zoneName": "Asia/Thimphu",
+      "group": [
+        "Asia/Thimbu"
+      ],
       "rawLabel": "(GMT+06:00) Bhutan Time",
       "label": "Bhutan Time",
       "gmtOffset": 360,
@@ -1808,6 +2331,9 @@
     },
     {
       "zoneName": "Asia/Urumqi",
+      "group": [
+        "Asia/Kashgar"
+      ],
       "rawLabel": "(GMT+06:00) Urumqi Time",
       "label": "Urumqi Time",
       "gmtOffset": 360,
@@ -1815,6 +2341,7 @@
     },
     {
       "zoneName": "Indian/Chagos",
+      "group": [],
       "rawLabel": "(GMT+06:00) Indian Ocean Time",
       "label": "Indian Ocean Time",
       "gmtOffset": 360,
@@ -1822,6 +2349,9 @@
     },
     {
       "zoneName": "Asia/Yangon",
+      "group": [
+        "Asia/Rangoon"
+      ],
       "rawLabel": "(GMT+06:30) Myanmar Time",
       "label": "Myanmar Time",
       "gmtOffset": 390,
@@ -1829,6 +2359,7 @@
     },
     {
       "zoneName": "Indian/Cocos",
+      "group": [],
       "rawLabel": "(GMT+06:30) Cocos Islands Time",
       "label": "Cocos Islands Time",
       "gmtOffset": 390,
@@ -1836,6 +2367,7 @@
     },
     {
       "zoneName": "Antarctica/Davis",
+      "group": [],
       "rawLabel": "(GMT+07:00) Davis Time",
       "label": "Davis Time",
       "gmtOffset": 420,
@@ -1843,6 +2375,10 @@
     },
     {
       "zoneName": "Asia/Bangkok",
+      "group": [
+        "Asia/Phnom_Penh",
+        "Asia/Vientiane"
+      ],
       "rawLabel": "(GMT+07:00) Indochina Time - Bangkok",
       "label": "Indochina Time - Bangkok",
       "gmtOffset": 420,
@@ -1850,6 +2386,7 @@
     },
     {
       "zoneName": "Asia/Barnaul",
+      "group": [],
       "rawLabel": "(GMT+07:00) Barnaul Time",
       "label": "Barnaul Time",
       "gmtOffset": 420,
@@ -1857,6 +2394,9 @@
     },
     {
       "zoneName": "Asia/Ho_Chi_Minh",
+      "group": [
+        "Asia/Saigon"
+      ],
       "rawLabel": "(GMT+07:00) Indochina Time - Ho Chi Minh City",
       "label": "Indochina Time - Ho Chi Minh City",
       "gmtOffset": 420,
@@ -1864,6 +2404,7 @@
     },
     {
       "zoneName": "Asia/Hovd",
+      "group": [],
       "rawLabel": "(GMT+07:00) Hovd Standard Time",
       "label": "Hovd Standard Time",
       "gmtOffset": 420,
@@ -1871,6 +2412,7 @@
     },
     {
       "zoneName": "Asia/Jakarta",
+      "group": [],
       "rawLabel": "(GMT+07:00) Western Indonesia Time - Jakarta",
       "label": "Western Indonesia Time - Jakarta",
       "gmtOffset": 420,
@@ -1878,6 +2420,7 @@
     },
     {
       "zoneName": "Asia/Krasnoyarsk",
+      "group": [],
       "rawLabel": "(GMT+07:00) Krasnoyarsk Standard Time - Krasnoyarsk",
       "label": "Krasnoyarsk Standard Time - Krasnoyarsk",
       "gmtOffset": 420,
@@ -1885,6 +2428,7 @@
     },
     {
       "zoneName": "Asia/Novokuznetsk",
+      "group": [],
       "rawLabel": "(GMT+07:00) Krasnoyarsk Standard Time - Novokuznetsk",
       "label": "Krasnoyarsk Standard Time - Novokuznetsk",
       "gmtOffset": 420,
@@ -1892,6 +2436,7 @@
     },
     {
       "zoneName": "Asia/Novosibirsk",
+      "group": [],
       "rawLabel": "(GMT+07:00) Novosibirsk Standard Time",
       "label": "Novosibirsk Standard Time",
       "gmtOffset": 420,
@@ -1899,6 +2444,7 @@
     },
     {
       "zoneName": "Asia/Pontianak",
+      "group": [],
       "rawLabel": "(GMT+07:00) Western Indonesia Time - Pontianak",
       "label": "Western Indonesia Time - Pontianak",
       "gmtOffset": 420,
@@ -1906,6 +2452,7 @@
     },
     {
       "zoneName": "Asia/Tomsk",
+      "group": [],
       "rawLabel": "(GMT+07:00) Tomsk Time",
       "label": "Tomsk Time",
       "gmtOffset": 420,
@@ -1913,6 +2460,7 @@
     },
     {
       "zoneName": "Indian/Christmas",
+      "group": [],
       "rawLabel": "(GMT+07:00) Christmas Island Time",
       "label": "Christmas Island Time",
       "gmtOffset": 420,
@@ -1920,6 +2468,7 @@
     },
     {
       "zoneName": "Asia/Brunei",
+      "group": [],
       "rawLabel": "(GMT+08:00) Brunei Darussalam Time",
       "label": "Brunei Darussalam Time",
       "gmtOffset": 480,
@@ -1927,6 +2476,7 @@
     },
     {
       "zoneName": "Asia/Choibalsan",
+      "group": [],
       "rawLabel": "(GMT+08:00) Ulaanbaatar Standard Time - Choibalsan",
       "label": "Ulaanbaatar Standard Time - Choibalsan",
       "gmtOffset": 480,
@@ -1934,6 +2484,9 @@
     },
     {
       "zoneName": "Asia/Hong_Kong",
+      "group": [
+        "Hongkong"
+      ],
       "rawLabel": "(GMT+08:00) Hong Kong Standard Time",
       "label": "Hong Kong Standard Time",
       "gmtOffset": 480,
@@ -1941,6 +2494,7 @@
     },
     {
       "zoneName": "Asia/Irkutsk",
+      "group": [],
       "rawLabel": "(GMT+08:00) Irkutsk Standard Time",
       "label": "Irkutsk Standard Time",
       "gmtOffset": 480,
@@ -1948,6 +2502,7 @@
     },
     {
       "zoneName": "Asia/Kuala_Lumpur",
+      "group": [],
       "rawLabel": "(GMT+08:00) Malaysia Time - Kuala Lumpur",
       "label": "Malaysia Time - Kuala Lumpur",
       "gmtOffset": 480,
@@ -1955,6 +2510,7 @@
     },
     {
       "zoneName": "Asia/Kuching",
+      "group": [],
       "rawLabel": "(GMT+08:00) Malaysia Time - Kuching",
       "label": "Malaysia Time - Kuching",
       "gmtOffset": 480,
@@ -1962,6 +2518,9 @@
     },
     {
       "zoneName": "Asia/Macau",
+      "group": [
+        "Asia/Macao"
+      ],
       "rawLabel": "(GMT+08:00) China Standard Time - Macao",
       "label": "China Standard Time - Macao",
       "gmtOffset": 480,
@@ -1969,6 +2528,9 @@
     },
     {
       "zoneName": "Asia/Makassar",
+      "group": [
+        "Asia/Ujung_Pandang"
+      ],
       "rawLabel": "(GMT+08:00) Central Indonesia Time",
       "label": "Central Indonesia Time",
       "gmtOffset": 480,
@@ -1976,6 +2538,7 @@
     },
     {
       "zoneName": "Asia/Manila",
+      "group": [],
       "rawLabel": "(GMT+08:00) Philippine Standard Time",
       "label": "Philippine Standard Time",
       "gmtOffset": 480,
@@ -1983,6 +2546,13 @@
     },
     {
       "zoneName": "Asia/Shanghai",
+      "group": [
+        "Asia/Chongqing",
+        "Asia/Chungking",
+        "Asia/Harbin",
+        "CTT",
+        "PRC"
+      ],
       "rawLabel": "(GMT+08:00) China Standard Time - Shanghai",
       "label": "China Standard Time - Shanghai",
       "gmtOffset": 480,
@@ -1990,6 +2560,9 @@
     },
     {
       "zoneName": "Asia/Singapore",
+      "group": [
+        "Singapore"
+      ],
       "rawLabel": "(GMT+08:00) Singapore Standard Time",
       "label": "Singapore Standard Time",
       "gmtOffset": 480,
@@ -1997,6 +2570,9 @@
     },
     {
       "zoneName": "Asia/Taipei",
+      "group": [
+        "ROC"
+      ],
       "rawLabel": "(GMT+08:00) Taipei Standard Time",
       "label": "Taipei Standard Time",
       "gmtOffset": 480,
@@ -2004,6 +2580,9 @@
     },
     {
       "zoneName": "Asia/Ulaanbaatar",
+      "group": [
+        "Asia/Ulan_Bator"
+      ],
       "rawLabel": "(GMT+08:00) Ulaanbaatar Standard Time - Ulaanbaatar",
       "label": "Ulaanbaatar Standard Time - Ulaanbaatar",
       "gmtOffset": 480,
@@ -2011,6 +2590,9 @@
     },
     {
       "zoneName": "Australia/Perth",
+      "group": [
+        "Australia/West"
+      ],
       "rawLabel": "(GMT+08:00) Australian Western Standard Time",
       "label": "Australian Western Standard Time",
       "gmtOffset": 480,
@@ -2018,6 +2600,7 @@
     },
     {
       "zoneName": "Australia/Eucla",
+      "group": [],
       "rawLabel": "(GMT+08:45) Australian Central Western Standard Time",
       "label": "Australian Central Western Standard Time",
       "gmtOffset": 525,
@@ -2025,6 +2608,7 @@
     },
     {
       "zoneName": "Asia/Chita",
+      "group": [],
       "rawLabel": "(GMT+09:00) Yakutsk Standard Time - Chita",
       "label": "Yakutsk Standard Time - Chita",
       "gmtOffset": 540,
@@ -2032,6 +2616,7 @@
     },
     {
       "zoneName": "Asia/Dili",
+      "group": [],
       "rawLabel": "(GMT+09:00) East Timor Time",
       "label": "East Timor Time",
       "gmtOffset": 540,
@@ -2039,6 +2624,7 @@
     },
     {
       "zoneName": "Asia/Jayapura",
+      "group": [],
       "rawLabel": "(GMT+09:00) Eastern Indonesia Time",
       "label": "Eastern Indonesia Time",
       "gmtOffset": 540,
@@ -2046,6 +2632,7 @@
     },
     {
       "zoneName": "Asia/Khandyga",
+      "group": [],
       "rawLabel": "(GMT+09:00) Yakutsk Standard Time - Khandyga",
       "label": "Yakutsk Standard Time - Khandyga",
       "gmtOffset": 540,
@@ -2053,6 +2640,7 @@
     },
     {
       "zoneName": "Asia/Pyongyang",
+      "group": [],
       "rawLabel": "(GMT+09:00) Korean Standard Time - Pyongyang",
       "label": "Korean Standard Time - Pyongyang",
       "gmtOffset": 540,
@@ -2060,6 +2648,9 @@
     },
     {
       "zoneName": "Asia/Seoul",
+      "group": [
+        "ROK"
+      ],
       "rawLabel": "(GMT+09:00) Korean Standard Time - Seoul",
       "label": "Korean Standard Time - Seoul",
       "gmtOffset": 540,
@@ -2067,6 +2658,10 @@
     },
     {
       "zoneName": "Asia/Tokyo",
+      "group": [
+        "JST",
+        "Japan"
+      ],
       "rawLabel": "(GMT+09:00) Japan Standard Time",
       "label": "Japan Standard Time",
       "gmtOffset": 540,
@@ -2074,6 +2669,7 @@
     },
     {
       "zoneName": "Asia/Yakutsk",
+      "group": [],
       "rawLabel": "(GMT+09:00) Yakutsk Standard Time - Yakutsk",
       "label": "Yakutsk Standard Time - Yakutsk",
       "gmtOffset": 540,
@@ -2081,6 +2677,7 @@
     },
     {
       "zoneName": "Pacific/Palau",
+      "group": [],
       "rawLabel": "(GMT+09:00) Palau Time",
       "label": "Palau Time",
       "gmtOffset": 540,
@@ -2088,6 +2685,10 @@
     },
     {
       "zoneName": "Australia/Darwin",
+      "group": [
+        "ACT",
+        "Australia/North"
+      ],
       "rawLabel": "(GMT+09:30) Australian Central Standard Time",
       "label": "Australian Central Standard Time",
       "gmtOffset": 570,
@@ -2095,6 +2696,7 @@
     },
     {
       "zoneName": "Asia/Ust-Nera",
+      "group": [],
       "rawLabel": "(GMT+10:00) Vladivostok Standard Time - Ust-Nera",
       "label": "Vladivostok Standard Time - Ust-Nera",
       "gmtOffset": 600,
@@ -2102,6 +2704,7 @@
     },
     {
       "zoneName": "Asia/Vladivostok",
+      "group": [],
       "rawLabel": "(GMT+10:00) Vladivostok Standard Time - Vladivostok",
       "label": "Vladivostok Standard Time - Vladivostok",
       "gmtOffset": 600,
@@ -2109,6 +2712,9 @@
     },
     {
       "zoneName": "Australia/Brisbane",
+      "group": [
+        "Australia/Queensland"
+      ],
       "rawLabel": "(GMT+10:00) Australian Eastern Standard Time - Brisbane",
       "label": "Australian Eastern Standard Time - Brisbane",
       "gmtOffset": 600,
@@ -2116,6 +2722,7 @@
     },
     {
       "zoneName": "Australia/Lindeman",
+      "group": [],
       "rawLabel": "(GMT+10:00) Australian Eastern Standard Time - Lindeman",
       "label": "Australian Eastern Standard Time - Lindeman",
       "gmtOffset": 600,
@@ -2123,6 +2730,10 @@
     },
     {
       "zoneName": "Pacific/Chuuk",
+      "group": [
+        "Pacific/Truk",
+        "Pacific/Yap"
+      ],
       "rawLabel": "(GMT+10:00) Chuuk Time",
       "label": "Chuuk Time",
       "gmtOffset": 600,
@@ -2130,6 +2741,9 @@
     },
     {
       "zoneName": "Pacific/Guam",
+      "group": [
+        "Pacific/Saipan"
+      ],
       "rawLabel": "(GMT+10:00) Chamorro Standard Time",
       "label": "Chamorro Standard Time",
       "gmtOffset": 600,
@@ -2137,6 +2751,9 @@
     },
     {
       "zoneName": "Pacific/Port_Moresby",
+      "group": [
+        "Antarctica/DumontDUrville"
+      ],
       "rawLabel": "(GMT+10:00) Papua New Guinea Time",
       "label": "Papua New Guinea Time",
       "gmtOffset": 600,
@@ -2144,6 +2761,9 @@
     },
     {
       "zoneName": "Australia/Adelaide",
+      "group": [
+        "Australia/South"
+      ],
       "rawLabel": "(GMT+10:30) Central Australia Time - Adelaide",
       "label": "Central Australia Time - Adelaide",
       "gmtOffset": 570,
@@ -2151,6 +2771,9 @@
     },
     {
       "zoneName": "Australia/Broken_Hill",
+      "group": [
+        "Australia/Yancowinna"
+      ],
       "rawLabel": "(GMT+10:30) Central Australia Time - Broken Hill",
       "label": "Central Australia Time - Broken Hill",
       "gmtOffset": 570,
@@ -2158,6 +2781,7 @@
     },
     {
       "zoneName": "Antarctica/Casey",
+      "group": [],
       "rawLabel": "(GMT+11:00) Casey Time",
       "label": "Casey Time",
       "gmtOffset": 660,
@@ -2165,6 +2789,7 @@
     },
     {
       "zoneName": "Antarctica/Macquarie",
+      "group": [],
       "rawLabel": "(GMT+11:00) Eastern Australia Time - Macquarie",
       "label": "Eastern Australia Time - Macquarie",
       "gmtOffset": 600,
@@ -2172,6 +2797,7 @@
     },
     {
       "zoneName": "Asia/Magadan",
+      "group": [],
       "rawLabel": "(GMT+11:00) Magadan Standard Time",
       "label": "Magadan Standard Time",
       "gmtOffset": 660,
@@ -2179,6 +2805,7 @@
     },
     {
       "zoneName": "Asia/Sakhalin",
+      "group": [],
       "rawLabel": "(GMT+11:00) Sakhalin Standard Time",
       "label": "Sakhalin Standard Time",
       "gmtOffset": 660,
@@ -2186,6 +2813,7 @@
     },
     {
       "zoneName": "Asia/Srednekolymsk",
+      "group": [],
       "rawLabel": "(GMT+11:00) Srednekolymsk Time",
       "label": "Srednekolymsk Time",
       "gmtOffset": 660,
@@ -2193,6 +2821,10 @@
     },
     {
       "zoneName": "Australia/Hobart",
+      "group": [
+        "Australia/Currie",
+        "Australia/Tasmania"
+      ],
       "rawLabel": "(GMT+11:00) Eastern Australia Time - Hobart",
       "label": "Eastern Australia Time - Hobart",
       "gmtOffset": 600,
@@ -2200,6 +2832,9 @@
     },
     {
       "zoneName": "Australia/Lord_Howe",
+      "group": [
+        "Australia/LHI"
+      ],
       "rawLabel": "(GMT+11:00) Lord Howe Time",
       "label": "Lord Howe Time",
       "gmtOffset": 630,
@@ -2207,6 +2842,9 @@
     },
     {
       "zoneName": "Australia/Melbourne",
+      "group": [
+        "Australia/Victoria"
+      ],
       "rawLabel": "(GMT+11:00) Eastern Australia Time - Melbourne",
       "label": "Eastern Australia Time - Melbourne",
       "gmtOffset": 600,
@@ -2214,6 +2852,12 @@
     },
     {
       "zoneName": "Australia/Sydney",
+      "group": [
+        "AET",
+        "Australia/ACT",
+        "Australia/Canberra",
+        "Australia/NSW"
+      ],
       "rawLabel": "(GMT+11:00) Eastern Australia Time - Sydney",
       "label": "Eastern Australia Time - Sydney",
       "gmtOffset": 600,
@@ -2221,6 +2865,7 @@
     },
     {
       "zoneName": "Pacific/Bougainville",
+      "group": [],
       "rawLabel": "(GMT+11:00) Bougainville Time",
       "label": "Bougainville Time",
       "gmtOffset": 660,
@@ -2228,6 +2873,7 @@
     },
     {
       "zoneName": "Pacific/Efate",
+      "group": [],
       "rawLabel": "(GMT+11:00) Vanuatu Standard Time",
       "label": "Vanuatu Standard Time",
       "gmtOffset": 660,
@@ -2235,6 +2881,9 @@
     },
     {
       "zoneName": "Pacific/Guadalcanal",
+      "group": [
+        "SST"
+      ],
       "rawLabel": "(GMT+11:00) Solomon Islands Time",
       "label": "Solomon Islands Time",
       "gmtOffset": 660,
@@ -2242,6 +2891,7 @@
     },
     {
       "zoneName": "Pacific/Kosrae",
+      "group": [],
       "rawLabel": "(GMT+11:00) Kosrae Time",
       "label": "Kosrae Time",
       "gmtOffset": 660,
@@ -2249,6 +2899,7 @@
     },
     {
       "zoneName": "Pacific/Noumea",
+      "group": [],
       "rawLabel": "(GMT+11:00) New Caledonia Standard Time",
       "label": "New Caledonia Standard Time",
       "gmtOffset": 660,
@@ -2256,6 +2907,9 @@
     },
     {
       "zoneName": "Pacific/Pohnpei",
+      "group": [
+        "Pacific/Ponape"
+      ],
       "rawLabel": "(GMT+11:00) Ponape Time",
       "label": "Ponape Time",
       "gmtOffset": 660,
@@ -2263,6 +2917,7 @@
     },
     {
       "zoneName": "Asia/Anadyr",
+      "group": [],
       "rawLabel": "(GMT+12:00) Anadyr Standard Time",
       "label": "Anadyr Standard Time",
       "gmtOffset": 720,
@@ -2270,6 +2925,7 @@
     },
     {
       "zoneName": "Asia/Kamchatka",
+      "group": [],
       "rawLabel": "(GMT+12:00) Petropavlovsk-Kamchatski Standard Time",
       "label": "Petropavlovsk-Kamchatski Standard Time",
       "gmtOffset": 720,
@@ -2277,6 +2933,7 @@
     },
     {
       "zoneName": "Pacific/Fiji",
+      "group": [],
       "rawLabel": "(GMT+12:00) Fiji Standard Time",
       "label": "Fiji Standard Time",
       "gmtOffset": 720,
@@ -2284,6 +2941,7 @@
     },
     {
       "zoneName": "Pacific/Funafuti",
+      "group": [],
       "rawLabel": "(GMT+12:00) Tuvalu Time",
       "label": "Tuvalu Time",
       "gmtOffset": 720,
@@ -2291,6 +2949,9 @@
     },
     {
       "zoneName": "Pacific/Kwajalein",
+      "group": [
+        "Kwajalein"
+      ],
       "rawLabel": "(GMT+12:00) Marshall Islands Time - Kwajalein",
       "label": "Marshall Islands Time - Kwajalein",
       "gmtOffset": 720,
@@ -2298,6 +2959,7 @@
     },
     {
       "zoneName": "Pacific/Majuro",
+      "group": [],
       "rawLabel": "(GMT+12:00) Marshall Islands Time - Majuro",
       "label": "Marshall Islands Time - Majuro",
       "gmtOffset": 720,
@@ -2305,6 +2967,7 @@
     },
     {
       "zoneName": "Pacific/Nauru",
+      "group": [],
       "rawLabel": "(GMT+12:00) Nauru Time",
       "label": "Nauru Time",
       "gmtOffset": 720,
@@ -2312,6 +2975,7 @@
     },
     {
       "zoneName": "Pacific/Norfolk",
+      "group": [],
       "rawLabel": "(GMT+12:00) Norfolk Island Time",
       "label": "Norfolk Island Time",
       "gmtOffset": 660,
@@ -2319,6 +2983,7 @@
     },
     {
       "zoneName": "Pacific/Tarawa",
+      "group": [],
       "rawLabel": "(GMT+12:00) Gilbert Islands Time",
       "label": "Gilbert Islands Time",
       "gmtOffset": 720,
@@ -2326,6 +2991,7 @@
     },
     {
       "zoneName": "Pacific/Wake",
+      "group": [],
       "rawLabel": "(GMT+12:00) Wake Island Time",
       "label": "Wake Island Time",
       "gmtOffset": 720,
@@ -2333,6 +2999,7 @@
     },
     {
       "zoneName": "Pacific/Wallis",
+      "group": [],
       "rawLabel": "(GMT+12:00) Wallis & Futuna Time",
       "label": "Wallis & Futuna Time",
       "gmtOffset": 720,
@@ -2340,6 +3007,9 @@
     },
     {
       "zoneName": "Pacific/Apia",
+      "group": [
+        "MIT"
+      ],
       "rawLabel": "(GMT+13:00) Apia Standard Time",
       "label": "Apia Standard Time",
       "gmtOffset": 780,
@@ -2347,6 +3017,12 @@
     },
     {
       "zoneName": "Pacific/Auckland",
+      "group": [
+        "Antarctica/McMurdo",
+        "Antarctica/South_Pole",
+        "NST",
+        "NZ"
+      ],
       "rawLabel": "(GMT+13:00) New Zealand Time",
       "label": "New Zealand Time",
       "gmtOffset": 720,
@@ -2354,6 +3030,7 @@
     },
     {
       "zoneName": "Pacific/Fakaofo",
+      "group": [],
       "rawLabel": "(GMT+13:00) Tokelau Time",
       "label": "Tokelau Time",
       "gmtOffset": 780,
@@ -2361,6 +3038,9 @@
     },
     {
       "zoneName": "Pacific/Kanton",
+      "group": [
+        "Pacific/Enderbury"
+      ],
       "rawLabel": "(GMT+13:00) Phoenix Islands Time",
       "label": "Phoenix Islands Time",
       "gmtOffset": 780,
@@ -2368,6 +3048,7 @@
     },
     {
       "zoneName": "Pacific/Tongatapu",
+      "group": [],
       "rawLabel": "(GMT+13:00) Tonga Standard Time",
       "label": "Tonga Standard Time",
       "gmtOffset": 780,
@@ -2375,6 +3056,9 @@
     },
     {
       "zoneName": "Pacific/Chatham",
+      "group": [
+        "NZ-CHAT"
+      ],
       "rawLabel": "(GMT+13:45) Chatham Time",
       "label": "Chatham Time",
       "gmtOffset": 765,
@@ -2382,6 +3066,7 @@
     },
     {
       "zoneName": "Pacific/Kiritimati",
+      "group": [],
       "rawLabel": "(GMT+14:00) Line Islands Time",
       "label": "Line Islands Time",
       "gmtOffset": 840,

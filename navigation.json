@@ -96,5 +96,9 @@
 		"textAction": "Create Your First Event",
 		"href": "/create"
 	},
+	"ctaCreateEvent": {
+		"label": "Create Your Event",
+		"href": "/create"
+	},
 	"notesRegister": "By registering to this event, the host will receive your contact information such as your name, email and phone number."
 }
