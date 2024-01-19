@@ -4,8 +4,8 @@
 		"tagline": "Create a simple event page,<span class='lg-hidden'><br /></span> invite guests and manage<span class='lg-hidden'><br /></span> a guestlist in 1-click",
 		"desc": "",
 		"image": {
-			"web": "/videos/home/hero.gif",
-			"mobile": "/videos/home/hero.gif"
+			"web": "https://networkydev.s3.us-west-2.amazonaws.com/videos/home/hero.gif",
+			"mobile": "https://networkydev.s3.us-west-2.amazonaws.com/videos/home/hero.gif"
 		},
 		"video": {
 			"web": "",
