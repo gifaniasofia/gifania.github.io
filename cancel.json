@@ -16,6 +16,6 @@
 			"desc": "This action can’t be undone."
 		},
 		"btnText": "Cancel & Notify",
-		"info": "We'll notify your guests via Email or SMS."
+		"info": "We'll notify your guests via Email."
 	}
 }
